@@ -8,4 +8,4 @@ $(function () {
             interval:3000
         }
     );
-})
+});

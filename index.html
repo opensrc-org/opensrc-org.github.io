@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>It's Our Earth</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/slick.css">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css"/>
     <link href="CSS/bootstrap.min.css" rel="stylesheet">
     <link href="CSS/mdb.css" rel="stylesheet">
@@ -12,9 +12,11 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto+Slab|Arvo|Josefin+Slab|Open+Sans|Ubuntu|Courgette|Dancing+Script|Satisfy|Raleway" rel="stylesheet">
     <link href="CSS/MainPage.css" rel="stylesheet">
 
+
     <script src="JS/jquery.min.js"></script>
     <script src="JS/app.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
     <script src="JS/jQuery.scrollSpeed.js"></script>
     <script>
         $(function() {
@@ -22,6 +24,17 @@
             jQuery.scrollSpeed(200, 1000);
 
         });
+    </script>
+    <script>
+        $(function () {
+            $('.slick').slick({
+                infinite: true,
+                slidesToShow: 3,
+                slidesToScroll: 3,
+                autoplay: true,
+                arrow: true
+            });
+        })
     </script>
 
 
@@ -281,7 +294,7 @@
         <h1>
             Event Highlights
         </h1>
-        <div class="slides">
+        <!--<div class="slides">
         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
             <div class="view hm-zoom" id="tree-event">
                 <img src="Public_html/Sub_Gallery/image_22.jpg" class="img-fluid">
@@ -317,9 +330,110 @@
 
 
         </div>
-        </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                <div class="view hm-zoom" id="cloth-donation">
+                    <img src="Public_html/Sub_Gallery/image_22.jpg" class="img-fluid">
+                    <div class="mask flex-center"  id="cloth-button">
+                        <p>CLOTH DONATION</p>
+                        <a href="Public_html/Quit_Weed_And_Succeed.html" target="_blank"><button class="btn btn-info">DETAILS</button></a>
+                    </div>
+                </div>
+
+
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                <div class="view hm-zoom" id="article-writing">
+                    <img src="Public_html/Sub_Gallery/image_22.jpg" class="img-fluid">
+                    <div class="mask flex-center"  id="article-button">
+                        <p>ARTICLE WRITING</p>
+                        <a href="Public_html/Quit_Weed_And_Succeed.html" target="_blank"><button class="btn btn-info">DETAILS</button></a>
+                    </div>
+                </div>
+
+
+            </div>
+
+
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                <div class="view hm-zoom" id="poster-making">
+                    <img src="Public_html/Sub_Gallery/image_22.jpg" class="img-fluid">
+                    <div class="mask flex-center"  id="poster-button">
+                        <p>POSTER MAKING</p>
+                        <a href="Public_html/Quit_Weed_And_Succeed.html" target="_blank"><button class="btn btn-info">DETAILS</button></a>
+                    </div>
+                </div>
+
+
+            </div>
+
+
+        </div>-->
     </div>
 </div>
+        <div class="slick">
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                <div>
+                    <img src="Public_html/Event_Highlights/cf_5.jpg" class="img-fluid">
+                    <div class="mask flex-center"  id="diya-button">
+                        <p>POSTER MAKING</p>
+                        <a href="Public_html/Quit_Weed_And_Succeed.html" target="_blank"><button class="btn btn-info">DETAILS</button></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                <div class="image_2">
+                    <img src="Public_html/Event_Highlights/Diya_Painting.jpg" class="img-fluid">
+                    <div class="mask flex-center"  id="smok-button">
+                        <p>POSTER MAKING</p>
+                        <a href="Public_html/Quit_Weed_And_Succeed.html" target="_blank"><button class="btn btn-info">DETAILS</button></a>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                <div class="image_3">
+                    <img src="Public_html/Event_Highlights/Against_Smoke.jpg" class="img-fluid">
+                    <div class="mask flex-center"  id="tre-button">
+                        <p>POSTER MAKING</p>
+                        <a href="Public_html/Quit_Weed_And_Succeed.html" target="_blank"><button class="btn btn-info">DETAILS</button></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                <div class="image_4">
+                    <img src="Public_html/Event_Highlights/AI.jpg" class="img-fluid">
+                    <div class="mask flex-center"  id="poster-button">
+                        <p>POSTER MAKING</p>
+                        <a href="Public_html/Quit_Weed_And_Succeed.html" target="_blank"><button class="btn btn-info">DETAILS</button></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                <div class="image_5">
+                    <img src="Public_html/Event_Highlights/image_10.jpg" class="img-fluid">
+                    <div class="mask flex-center"  id="article-button">
+                        <p>POSTER MAKING</p>
+                        <a href="Public_html/Quit_Weed_And_Succeed.html" target="_blank"><button class="btn btn-info">DETAILS</button></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                <div class="image_6">
+                    <img src="Public_html/Event_Highlights/image_11.jpg" class="img-fluid">
+                    <div class="mask flex-center"  id="planting-button">
+                        <p>POSTER MAKING</p>
+                        <a href="Public_html/Quit_Weed_And_Succeed.html" target="_blank"><button class="btn btn-info">DETAILS</button></a>
+                    </div>
+                </div>
+            </div>
+        </div>
 
         <div id="Authourity-speak" class="container-fluid">
             <div class="row">
