@@ -1,0 +1,78 @@
+body
+{
+    background-color: whitesmoke;
+}
+.Thanks-Heading h1
+{
+    text-align: center;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 5em;
+    font-weight: 500;
+    margin-top: 6%;
+    text-shadow: 2px 2px 4px grey;
+}
+.Thanks-Para
+{
+    text-transform: capitalize;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2em;
+    margin-left: 18%;
+    margin-right: 18%;
+    text-shadow: 1px 1px 1px grey;
+}
+.Social-Icon
+{
+    text-align: center;
+}
+.Social-Icon i
+{
+    color: #fff;
+    width: 36px;
+    padding: 4px;
+    border-radius: 4px;
+}
+.Website-Link
+{
+    text-align: center;
+}
+i:hover
+{
+    cursor: pointer;
+}
+#facebook
+{
+    background-color: #3b5998;
+}
+#twitter
+{
+    background-color: #1da1f2;
+}
+#instagram
+{
+    background-color: #c13584;
+}
+#youtube
+{
+    background-color: #cd201f;
+}
+#facebook:hover
+{
+    background-color: #ffffff;
+    color: #3b5998;
+}
+#twitter:hover
+{
+    background-color: #ffffff;
+    color: #1da1f2;
+}
+#instagram:hover
+{
+    background-color: #ffffff;
+    color: #c13584;
+}
+#youtube:hover
+{
+    background-color: #ffffff;
+    color: #cd201f;
+}

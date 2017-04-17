@@ -1,0 +1,94 @@
+body
+{
+    background-color: whitesmoke;
+    margin: 0 2% 2% 2%;
+}
+.container
+{
+    width:100%;
+}
+#header h1
+{
+    text-transform: capitalize;
+    font-size: 4em;
+    text-align: center;
+    font-family: 'Raleway', 'Satisfy', 'Dancing Script', cursive;
+    margin-top: 80px;
+    letter-spacing: 1.2px;
+    word-spacing: 1.2px;
+    text-shadow: 4px 4px 8px grey;
+}
+#reach-us
+{
+    padding-top: 10%;
+}
+p
+{
+    text-transform: capitalize;
+    font-family: 'Open Sans','Ubuntu', 'Arvo', serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+    letter-spacing: 1.2px;
+    margin-top: 20px;
+}
+#social-icon {
+    padding-left: 45%;
+}
+#address,#mail,#call
+{
+    height: 200px;
+}
+
+#address span
+{
+    color: #e55e5e;
+    margin-left: 46%;
+}
+#mail span
+{
+    color: #136ad5;
+    margin-left: 46%;
+}
+#call span
+{
+    color: #00ad45;
+    margin-left: 46%;
+}
+#address:hover
+{
+    /*color: #e55e5e;*/
+    color: whitesmoke;
+    text-shadow: 1px 1px 1px #000;
+    background-color: dimgray;
+    border-radius: 12px;
+    box-shadow: 8px 8px 8px grey;
+}
+#mail:hover
+{
+    color: whitesmoke;
+    text-shadow: 1px 1px 1px #000;
+    background-color: dimgray;
+    border-radius: 12px;
+    box-shadow: 8px 8px 8px grey;
+}
+#call:hover
+{
+    color: whitesmoke;
+    text-shadow: 1px 1px 1px #000;
+    background-color: dimgray;
+    border-radius: 12px;
+    box-shadow: 8px 8px 8px grey;
+}
+.drop-message
+{
+    text-align: center;
+}
+.drop-message button
+{
+    text-transform: uppercase;
+    background-color: #00C853;
+    color: whitesmoke;
+    font-family: 'Ubuntu', 'Arvo', 'Open Sans', serif;
+    letter-spacing: 2px;
+}

@@ -1,0 +1,526 @@
+body
+{
+    display: flex;
+    flex-direction: column;
+}
+.container
+{
+    width: 100%;
+}
+#social-icon-universal span
+{
+    padding-top: 16px;
+    position: relative;
+}
+#social-icon-universal span.fa-facebook
+{
+    color: #3b5998;
+}
+#social-icon-universal span.fa-instagram
+{
+    color: #c13584;
+}
+#social-icon-universal span.fa-twitter
+{
+    color: #1da1f2;
+}
+#main-heading #header h1
+{
+    text-transform: capitalize;
+    font-size: 2.5em;
+    font-family: 'Raleway','Ubuntu','Arvo', 'Open Sans', serif;
+    letter-spacing: 1.2px;
+    margin-top: 1%;
+    margin-left: 6%;
+    line-height: 1.5;
+    font-weight: 700;
+}
+a
+{
+    font-family: 'Raleway','Open Sans', 'cursive';
+    font-size: small;
+    letter-spacing: 1.2px;
+}
+.navbar
+{
+    margin-bottom: 0;
+    border-radius: 0;
+    margin-top: 0;
+    width: 100%;
+}
+#navigation li a
+{
+    color: black;
+    opacity: 1;
+}
+#navigation li a:hover
+{
+    background-color: skyblue;
+    color: #000;
+    opacity: 1.0;
+    font-weight: 900;
+    z-index: 999;
+}
+#navigation li a:active
+{
+    background-color: #ffffff;
+    color: #000;
+}
+span
+{
+    color: whitesmoke;
+}
+span.after_shrink
+{
+    color: #000;
+    font-weight: bolder;
+    font-size: medium;
+    font-family: 'Open Sans', 'Ubuntu', 'Arvo', serif;
+    word-spacing: 4px;
+    letter-spacing:2px;
+    margin-right: 1%;
+    text-transform: capitalize;
+}
+span#toggle-icon
+{
+    color: black;
+}
+#Slider-container
+{
+    padding:0;
+}
+#Slider_div img
+{
+    width:100%;
+    opacity: 1;
+}
+#status_1,#status_2
+{
+    font-family: 'Raleway','Satisfy','Dancing Script', cursive;
+    font-size: 48px;
+    margin-bottom: 150px;
+    background-color: rgba(0,0,0,0.2);
+    letter-spacing: 1px;
+    line-height: 1.5;
+    border-radius: 8px;
+}
+.carousel .carousel-indicators li
+{
+    background-color: #ac2925;
+    width:20px;
+    height:0;
+}
+.carousel .carousel-indicators li.active
+{
+    background-color: #ac2925;
+    width:20px;
+    height:0;
+}
+.fa-quote-left,.fa-quote-right
+{
+    color: #adadad;
+}
+.carousel-caption span.fa-facebook
+{
+    width:40px;
+    padding: 6px;
+    border-radius: 6px;
+}
+.carousel-caption span.fa-instagram
+{
+    width:40px;
+    padding: 6px;
+    border-radius: 6px;
+}
+.fa-facebook:hover
+{
+    background-color: transparent;
+    color: #3b5998;
+}
+.fa-instagram:hover
+{
+    background-color: transparent;
+    color: #c13584;
+}
+#team
+{
+    background-color: #FCFCFC;
+    width:100%;
+}
+#team-info img
+{
+    border-radius: 50% 50%;
+    border-style: inset;
+    border-color: white;
+    border-width: 4px;
+}
+#team-info img:hover
+{
+    border-style: outset;
+}
+#heading-team h1
+{
+    text-align: center;
+    padding-bottom:40px;
+    font-size: 2.5em;
+    letter-spacing: 1.3px;
+    word-spacing: 1.5px;
+    text-decoration: underline;
+}
+#team
+{
+    margin-top: 40px;
+}
+#team-detail
+{
+    text-align: center;
+    margin-top: 40px;
+}
+#team-detail h1
+{
+    font-family: /*'Raleway', */'Ubuntu', 'Arvo', 'Open Sans', serif;
+    font-size: 2em;
+    font-weight: bolder;
+    letter-spacing: 2.5px;
+    line-height: 0;
+    text-decoration: underline;
+}
+#team-detail span
+{
+    font-family: 'Ubuntu', 'Arvo', 'Open Sans', serif;
+    font-size: 1.2em;
+    color: darkslategrey;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+#team-detail p
+{
+    font-family: 'Open Sans', 'cursive';
+    letter-spacing: 1px;
+    /*line-height: 1.5;*/
+    font-size: small;
+    text-transform: capitalize;
+    width: 100%;
+    padding-bottom: 60px;
+}
+#team-detail img
+{
+    width:250px;
+    height: 250px;
+}
+#team-detail img:hover
+{
+    filter: grayscale(100%);
+}
+#about-us
+{
+    font-family: 'Roboto Slab','Raleway','Open Sans', 'cursive';
+    font-size: large;
+    word-spacing: 2px;
+    text-align: left;
+    line-height: 1.7;
+    background-color: transparent;
+    color: #000;
+}
+#about-us h1
+{
+    padding-bottom: 50px;
+    font-family: 'Raleway','Open Sans', 'cursive';
+    letter-spacing: 1.3px;
+    font-size: 2.5em;
+}
+#about-status
+{
+    font-family: /*'Roboto Slab',*/'Raleway','Open Sans', 'cursive';
+    padding-right: 60px;
+    letter-spacing: 1.2px;
+    text-transform: capitalize;
+}
+#about-us h1,#what-we-love-to-do h1
+{
+    text-align: center;
+    text-decoration: underline;
+}
+#what-we-love-to-do
+{
+   /* background-color: #d7d7d8;*/
+    width:100%;
+    padding-bottom: 80px;
+}
+#what-we-love-to-do .row
+{
+    position: relative;
+}
+.recycling-holder,.heartbeat-holder,.empowerment-holder,.awareness-holder
+{
+    position: relative;
+    margin-left: 3px;
+    margin-right: 3px;
+    cursor: pointer;
+}
+#div-1-front
+{
+
+    background-color: #fc7f0c;
+    height:250px;
+    position: relative;
+}
+#div-1-back
+{
+    background-color: transparent;
+}
+#div-1-back,#div-2-back,#div-3-back,#div-4-back
+{
+    display: none;
+}
+#div-1-back #div-1,#div-2-back #div-2,#div-3-back #div-3,#div-4-back #div-4
+{
+    font-family: 'Open Sans', 'cursive';
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    text-decoration: none;
+}
+#div-2-front
+{
+    background-color: #ffc000;
+    height: 250px;
+    position: relative;
+}
+#div-3-front
+{
+    background-color: #337ab7;
+    height:250px;
+    position: relative;
+}
+#div-4-front
+{
+    background-color: #474747;
+    height: 250px;
+    position: relative;
+}
+#div-1-front span,#div-2-front span,#div-3-front span,#div-4-front span
+{
+    margin-left: 42%;
+    margin-right: 42%;
+    margin-top: 18px;
+    color: white;
+}
+#div-1-front span:hover
+{
+    animation-name: A1;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+    animation-delay: 0.2s;
+}
+#div-2-front span:hover
+{
+    animation-name: A2;
+    animation-iteration-count: 1;
+    animation-duration: 2s;
+}
+#div-4-front span:hover
+{
+    animation-name: A4;
+    animation-iteration-count: 1;
+    animation-duration: 3s;
+}
+#div-1-front p,#div-2-front p,#div-3-front p,#div-4-front p
+{
+    text-align: center;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-size: 25px;
+    font-family: 'Ubuntu', serif;
+    margin-top: 36px;
+    text-decoration: underline;
+    letter-spacing: 1.2px;
+}
+#event-highlights h1,#Authourity-speak h1,#spread-love h1
+{
+    text-align: center;
+    font-family: 'Raleway','Open Sans', 'cursive';
+    font-weight: bold;
+    text-decoration: underline;
+    padding-bottom: 70px;
+    letter-spacing:1.3px;
+    word-spacing: 1.8px;
+    text-transform: uppercase;
+    font-size: 2.5em;
+}
+#event-highlights button
+{
+    font-family: 'Raleway', 'Open Sans', 'cursive';
+    letter-spacing: 2px;
+}
+#event-highlights img
+{
+    width:100%;
+    height: auto;
+}
+#tree-event:hover,#diya_painting-event:hover,#smoke-event:hover
+{
+    opacity: 0.7;
+    box-shadow: 6px 6px 5px black;
+}
+#tree-button p,#diya_painting-button p,#smoke-button p
+{
+    font-family: 'Raleway', 'Open Sans', 'cursive';
+    text-transform: uppercase;
+    font-size: xx-large;
+    font-weight: 900;
+}
+#tree-button p
+{
+    color: #00ad45;
+}
+#diya_painting-button p
+{
+    color: #ec407a;
+}
+#smoke-button p
+{
+    color: red;
+}
+
+#Authourity-speak
+{
+    width:100%;
+}
+#Authourity-speak h1
+{
+    color: whitesmoke;
+}
+#spread-love h1
+{
+    color: #000;
+}
+#Authourity-speak
+{
+    background-color: #606061;
+    margin-top: 120px;
+}
+#Authourity-speak div
+{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+#Authourity-speak img
+{
+    width:270px;
+    height:280px;
+}
+#Authourity-speak p
+{
+    text-align: center;
+    text-transform: capitalize;
+    width: 310px;
+    padding-top:8px;
+    color: whitesmoke;
+    letter-spacing: 1.2px;
+}
+.help-us.container
+{
+    width:100%;
+}
+input[placeholder],textarea[placeholder]
+{
+    font-family: 'Raleway', 'Ubuntu', 'Arvo', 'Open Sans', serif;
+    letter-spacing: inherit;
+}
+#footer p
+{
+    text-align: center;
+    color: white;
+}
+.footer
+{
+    padding-top: 1%;
+    width:100%;
+    background-color: #000;
+    /*margin-top: 10px;*/
+    padding-bottom: 1%;
+}
+#tree-button,#diya_painting-button,#smoke-button
+{
+    display: none;
+    margin-top: 30%;
+    margin-left: 10%;
+}
+
+@keyframes A1 {
+    50%
+    {
+        transform: rotate(360deg);
+        color: #4cae4c;
+    }
+    75%
+    {
+        transform:scale(1.2);
+    }
+    100%
+    {
+        transform: scale(1.0);
+    }
+}
+@keyframes A2 {
+    25%
+    {
+        transform: rotateY(180deg);  
+    }
+    50%
+    {
+        opacity: 1.2;
+    }
+    75%
+    {
+        color: #ff0000;
+    }
+    
+}
+@keyframes A4 {
+    80%
+    {
+        transform:translate(15px,-10px);
+
+    }
+    100%
+    {
+        color: #66afe9;
+        transform: scale(1);
+    }
+
+}
+@media only screen and (max-width: 768px) {
+    #main-heading
+    {
+        display: none;
+    }
+    #logo
+    {
+        display: none;
+    }
+    #header {
+        display: none;
+    }
+}
+@media only screen and (max-width: 765px)
+{
+    #about-status
+    {
+        text-align: center;
+        padding:0;
+        text-transform: capitalize;
+        font-size: small;
+    }
+}
+@media only screen and (max-width: 1200px){
+    .carousel-caption
+    {
+        display: none;
+    }
+    #social-icon-universal
+    {
+        display: none;
+    }
+}
