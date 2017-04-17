@@ -27,13 +27,37 @@
     </script>
     <script>
         $(function () {
-            $('.slick').slick({
+            $('.slick').slick(
+                {
                 infinite: true,
                 slidesToShow: 3,
                 slidesToScroll: 3,
                 autoplay: true,
-                arrow: true
-            });
+                arrows: false,
+                    responsive: [
+                        {
+                            breakpoint: 900,
+                            settings: {
+                                slidesToShow: 2,
+                                slidesToScroll: 2,
+                                infinite: true,
+                                autoplay: true,
+                                arrows:  false
+                            }
+                        },
+                        {
+                            breakpoint: 590,
+                            settings: {
+                                slidesToShow: 1,
+                                slidesToScroll: 1,
+                                infinite: true,
+                                autoPlay: true,
+                                arrows: false
+                            }
+                        }
+                        ]
+                }
+            );
         })
     </script>
 
@@ -372,6 +396,7 @@
         </div>-->
     </div>
 </div>
+    <div class="container">
         <div class="slick">
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                 <div>
@@ -504,5 +529,6 @@
     </div>
 </div>
 
+    </div>
 </body>
 </html>

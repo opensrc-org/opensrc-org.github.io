@@ -4,7 +4,6 @@
     <list default="true" id="d07aba69-2902-447a-a232-63d2eca56303" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/MainPage.css" afterPath="$PROJECT_DIR$/CSS/MainPage.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS/Slider_Script.js" afterPath="$PROJECT_DIR$/JS/Slider_Script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,11 +22,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="376" column="20" lean-forward="false" selection-start-line="376" selection-start-column="20" selection-end-line="376" selection-end-column="20" />
+            <state relative-caret-position="224">
+              <caret line="465" column="49" lean-forward="false" selection-start-line="465" selection-start-column="49" selection-end-line="465" selection-end-column="49" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#16124#19256#0" expanded="false" />
+                <element signature="e#17041#20173#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -46,8 +45,8 @@
       <file leaf-file-name="MainPage.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS/MainPage.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="383" column="1" lean-forward="false" selection-start-line="383" selection-start-column="1" selection-end-line="383" selection-end-column="1" />
+            <state relative-caret-position="75">
+              <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -86,7 +85,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1378" />
+    <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectView">
@@ -185,15 +184,15 @@
       <option name="presentableId" value="Default" />
       <updated>1492453684970</updated>
       <workItem from="1492453686386" duration="2886000" />
-      <workItem from="1492463074336" duration="4104000" />
+      <workItem from="1492463074336" duration="7462000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6990000" />
+    <option name="totallyTimeSpent" value="10348000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -259,7 +258,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#16124#19256#0" expanded="false" />
+            <element signature="e#17041#20173#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -290,19 +289,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/MainPage.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="383" column="1" lean-forward="false" selection-start-line="383" selection-start-column="1" selection-end-line="383" selection-end-column="1" />
+        <state relative-caret-position="75">
+          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="376" column="20" lean-forward="false" selection-start-line="376" selection-start-column="20" selection-end-line="376" selection-end-column="20" />
+        <state relative-caret-position="224">
+          <caret line="465" column="49" lean-forward="false" selection-start-line="465" selection-start-column="49" selection-end-line="465" selection-end-column="49" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#16124#19256#0" expanded="false" />
+            <element signature="e#17041#20173#0" expanded="false" />
           </folding>
         </state>
       </provider>
