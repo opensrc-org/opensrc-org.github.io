@@ -518,6 +518,7 @@ input[placeholder],textarea[placeholder]
         padding:0;
         text-transform: capitalize;
         font-size: small;
+        line-height: 2px;
     }
 }
 @media only screen and (max-width: 1200px){
