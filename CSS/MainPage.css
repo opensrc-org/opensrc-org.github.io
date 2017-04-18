@@ -342,7 +342,7 @@ span#toggle-icon
     font-family: 'Raleway','Open Sans', 'cursive';
     font-weight: bold;
     text-decoration: underline;
-    padding-bottom: 70px;
+    /*padding-bottom: 70px;*/
     letter-spacing:1.3px;
     word-spacing: 1.8px;
     text-transform: uppercase;
@@ -404,7 +404,7 @@ span#toggle-icon
 #Authourity-speak
 {
     background-color: #606061;
-    margin-top: 120px;
+    /*margin-top: 120px;*/
 }
 #Authourity-speak div
 {
