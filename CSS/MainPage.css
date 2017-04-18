@@ -235,6 +235,7 @@ span#toggle-icon
     padding-right: 60px;
     letter-spacing: 1.2px;
     text-transform: capitalize;
+    line-height: 2px;
 }
 #about-us h1,#what-we-love-to-do h1
 {
@@ -518,7 +519,6 @@ input[placeholder],textarea[placeholder]
         padding:0;
         text-transform: capitalize;
         font-size: small;
-        line-height: 2px;
     }
 }
 @media only screen and (max-width: 1200px){
