@@ -2,7 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d07aba69-2902-447a-a232-63d2eca56303" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_25.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_28.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_29.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_9.jpg" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="475">
-              <caret line="444" column="45" lean-forward="true" selection-start-line="444" selection-start-column="45" selection-end-line="444" selection-end-column="45" />
+              <caret line="444" column="45" lean-forward="false" selection-start-line="444" selection-start-column="45" selection-end-line="444" selection-end-column="45" />
               <folding>
                 <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -236,15 +261,15 @@
       <option name="presentableId" value="Default" />
       <updated>1492453684970</updated>
       <workItem from="1492453686386" duration="2886000" />
-      <workItem from="1492463074336" duration="25837000" />
+      <workItem from="1492463074336" duration="26190000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28723000" />
+    <option name="totallyTimeSpent" value="29076000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -365,7 +390,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
-          <caret line="444" column="45" lean-forward="true" selection-start-line="444" selection-start-column="45" selection-end-line="444" selection-end-column="45" />
+          <caret line="444" column="45" lean-forward="false" selection-start-line="444" selection-start-column="45" selection-end-line="444" selection-end-column="45" />
           <folding>
             <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
