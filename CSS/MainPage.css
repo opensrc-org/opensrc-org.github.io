@@ -353,15 +353,21 @@ span#toggle-icon
     font-family: 'Raleway', 'Open Sans', 'cursive';
     letter-spacing: 2px;
 }
-#event-highlights img
+.view img
 {
     width:100%;
     height: auto;
+    border-radius: 8px;
+    border-style: inset;
+    border-color: black;
+    border-width: thin;
 }
 #tree-event:hover,#diya_painting-event:hover,#smoke-event:hover,#article-writing-event:hover,#poster-creating-event:hover,#planting-event:hover
 {
     opacity: 0.7;
-    box-shadow: 6px 6px 5px black;
+    box-shadow: 0 0 10px black;
+    cursor: pointer;
+    /*box-shadow: -6px -6px 5px black;*/
 }
 #tree-button p,#diya_painting-button p,#smoke-button p,#poster-button p,#planting-button p,#article-button p
 {
