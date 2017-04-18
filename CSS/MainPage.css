@@ -358,9 +358,9 @@ span#toggle-icon
     width:100%;
     height: auto;
     border-radius: 8px;
-    border-style: outset;
-    border-color: black;
-    border-width: medium;
+    border-style: solid;
+    border-color: white;
+    border-width: 25px;
 }
 #tree-event:hover,#diya_painting-event:hover,#smoke-event:hover,#article-writing-event:hover,#poster-creating-event:hover,#planting-event:hover
 {
