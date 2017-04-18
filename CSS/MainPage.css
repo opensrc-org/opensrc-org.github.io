@@ -232,10 +232,10 @@ span#toggle-icon
 #about-status
 {
     font-family: /*'Roboto Slab',*/'Raleway','Open Sans', 'cursive';
-    padding-right: 60px;
-    letter-spacing: 1.2px;
+    /*padding-right: 60px;*/
+    letter-spacing: 0.6px;
     text-transform: capitalize;
-    line-height: 2;
+    line-height: 35px;
 }
 #about-us h1,#what-we-love-to-do h1
 {
