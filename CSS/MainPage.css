@@ -426,6 +426,16 @@ span#toggle-icon
     color: whitesmoke;
     letter-spacing: 1.2px;
 }
+.video iframe#youtube
+{
+    min-height: 100%;
+    min-width: 70%;
+}
+.video iframe#updates
+{
+    min-width: 29%;
+    min-height: 100%;
+}
 .help-us.container
 {
     width:100%;
@@ -439,6 +449,7 @@ form
 {
     margin-right: 20%;
     margin-left: 20%;
+
 }
 #footer p
 {
