@@ -240,15 +240,15 @@
       <option name="presentableId" value="Default" />
       <updated>1492453684970</updated>
       <workItem from="1492453686386" duration="2886000" />
-      <workItem from="1492463074336" duration="32361000" />
+      <workItem from="1492463074336" duration="32441000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35247000" />
+    <option name="totallyTimeSpent" value="35327000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
