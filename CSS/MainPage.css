@@ -430,6 +430,10 @@ span#toggle-icon
 {
     width:100%;
 }
+form{
+    margin-right: 20%;
+    margin-left: 20%;
+}
 input[placeholder],textarea[placeholder]
 {
     font-family: 'Raleway', 'Ubuntu', 'Arvo', 'Open Sans', serif;
