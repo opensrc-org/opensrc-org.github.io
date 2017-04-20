@@ -6,7 +6,8 @@ $(function () {
     $('#Slider').carousel(
         {
             interval:3000,
-            pause: null
+            pause: null,
+            keyboard: true
         }
     );
 });

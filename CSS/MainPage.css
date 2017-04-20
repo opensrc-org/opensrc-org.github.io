@@ -34,7 +34,7 @@ body
 {
     color: #1da1f2;
 }
-#main-heading #header h1
+/*#main-heading #header h1
 {
     text-transform: capitalize;
     font-size: 2.5em;
@@ -44,7 +44,7 @@ body
     margin-left: 6%;
     line-height: 1.5;
     font-weight: 700;
-}
+}*/
 a
 {
     font-family: 'Raleway','Open Sans', 'cursive';
@@ -116,15 +116,15 @@ span#toggle-icon
 }
 .carousel .carousel-indicators li
 {
-    background-color: #ac2925;
-    width:20px;
-    height:0;
+    background-color: transparent;
+    width:10px;
+    height:10px;
 }
 .carousel .carousel-indicators li.active
 {
-    background-color: #ac2925;
-    width:20px;
-    height:0;
+    background-color: white;
+    width:10px;
+    height:10px;
 }
 .fa-quote-left,.fa-quote-right
 {
@@ -142,15 +142,23 @@ span#toggle-icon
     padding: 6px;
     border-radius: 6px;
 }
+.fa-facebook
+{
+    color: #3b5998;
+}
 .fa-facebook:hover
 {
     background-color: transparent;
-    color: #3b5998;
+    color: #fff;
+}
+.fa-instagram
+{
+    color: #c13584;
 }
 .fa-instagram:hover
 {
     background-color: transparent;
-    color: #c13584;
+    color: white;
 }
 #team
 {
@@ -172,10 +180,19 @@ span#toggle-icon
 {
     text-align: center;
     padding-bottom:40px;
+    /*font-family: 'Josefin Sans', "Open Sans", cursive;*/
+    font-family: 'Poiret One', cursive;
+    letter-spacing: 6px;
     font-size: 2.5em;
+    font-weight: bolder;
+    text-transform: capitalize;
+    color: skyblue;
+    /*font-size: 2.5em;
     letter-spacing: 1.3px;
     word-spacing: 1.5px;
-    text-decoration: underline;
+    color: skyblue;
+    text-transform: capitalize;*/
+    /*text-decoration: underline;*/
 }
 #team
 {
@@ -234,24 +251,34 @@ span#toggle-icon
 }
 #about-us h1
 {
-    padding-bottom: 20px;
-    font-family: 'Josefin Sans', "Open Sans", cursive;
-    letter-spacing: 1.3px;
+    padding-bottom: 10px;
+    /*font-family: 'Josefin Sans', "Open Sans", cursive;*/
+    font-family: 'Poiret One', cursive;
+    letter-spacing: 6px;
+    font-weight: bolder;
     font-size: 2.5em;
+    text-align: left;
+    text-transform: capitalize;
+    margin-left: 2%;
+    color: skyblue;
 }
 #about-status
 {
-    font-family: /*'Roboto Slab',*/'Raleway','Open Sans', 'cursive';
+    /*font-family: 'Roboto Slab','Raleway','Open Sans', 'cursive';*/
     /*padding-right: 60px;*/
+    font-family: 'Source Code Pro', monospace;
     letter-spacing: 0.6px;
     text-transform: capitalize;
     line-height: 35px;
 }
-#about-us h1,#what-we-love-to-do h1
+/*#about-us h1,#what-we-love-to-do h1
 {
-    text-align: center;
-    text-decoration: underline;
-}
+    text-align: left;
+    text-transform: capitalize;
+    margin-left: 2%;
+    color: skyblue;
+    !*text-decoration: underline;*!
+}*/
 #what-we-love-to-do
 {
    /* background-color: #d7d7d8;*/
@@ -286,7 +313,7 @@ span#toggle-icon
 }
 #div-1-back #div-1,#div-2-back #div-2,#div-3-back #div-3,#div-4-back #div-4
 {
-    font-family: 'Open Sans', 'cursive';
+    font-family: "Open Sans", cursive;
     font-size: 15px;
     font-weight: bold;
     letter-spacing: 1.5px;
@@ -340,24 +367,29 @@ span#toggle-icon
 {
     text-align: center;
     text-transform: uppercase;
-    color: #ffffff;
+    color: whitesmoke;
     font-size: 25px;
-    font-family: 'Ubuntu', serif;
+    /*font-family: 'Poiret One', cursive;*/
+    font-family: 'Fredoka One', cursive;
+    font-weight: bolder;
     margin-top: 36px;
     text-decoration: underline;
     letter-spacing: 1.2px;
 }
-#event-highlights h1,#Authourity-speak h1,#spread-love h1
+#event-highlights h1,#spread-love h1
 {
     text-align: center;
-    font-family: 'Raleway','Open Sans', 'cursive';
-    font-weight: bold;
-    text-decoration: underline;
+    /*font-family: 'Raleway','Open Sans', 'cursive';*/
+    font-family: 'Poiret One', cursive;
+    font-weight: bolder;
+    /*text-decoration: underline;*/
     /*padding-bottom: 70px;*/
-    letter-spacing:1.3px;
+    letter-spacing: 6px;
+    padding-top: 5%;
+    color: skyblue;
     word-spacing: 1.8px;
-    text-transform: uppercase;
-    font-size: 2.5em;
+    text-transform: capitalize;
+    font-size: 3em;
 }
 #event-highlights button
 {
@@ -400,41 +432,10 @@ span#toggle-icon
     color: red;
 }
 
-#Authourity-speak
-{
-    width:100%;
-}
-#Authourity-speak h1
-{
-    color: whitesmoke;
-}
+
 #spread-love h1
 {
     color: #000;
-}
-#Authourity-speak
-{
-    background-color: #606061;
-    /*margin-top: 120px;*/
-}
-#Authourity-speak div
-{
-    padding-left: 10%;
-    padding-right: 10%;
-}
-#Authourity-speak img
-{
-    width:270px;
-    height:280px;
-}
-#Authourity-speak p
-{
-    text-align: center;
-    text-transform: capitalize;
-    width: 310px;
-    padding-top:8px;
-    color: whitesmoke;
-    letter-spacing: 1.2px;
 }
 .video iframe#youtube
 {
@@ -461,18 +462,21 @@ form
     margin-left: 20%;
 
 }
-#footer p
+#footer p,#footer a
 {
     text-align: center;
-    color: white;
+    color: whitesmoke;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    letter-spacing:1.4px;
+    font-size: medium;
 }
 .footer
 {
-    padding-top: 1%;
     width:100%;
-    background-color: #000;
+    background-color: black;
     /*margin-top: 10px;*/
-    padding-bottom: 1%;
+
 }
 #tree-button,#diya_painting-button,#smoke-button,#poster-button,#article-button,#planting-button
 {
