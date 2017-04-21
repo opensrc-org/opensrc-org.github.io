@@ -182,18 +182,22 @@ span#toggle-icon
     background-color: #FCFCFC;
     width:100%;
 }
-#team-info img
+#team-info img,#coordinator-info img
 {
     border-radius: 50% 50%;
     border-style: inset;
     border-color: white;
     border-width: 4px;
 }
-#team-info img:hover
+#team-info img:hover,#coordinator-info img:hover
 {
     border-style: outset;
 }
-#heading-team h1
+#coordinator-info
+{
+    padding-bottom: 4%;
+}
+#heading-team h1,#heading-coordinator h1
 {
     text-align: center;
     padding-bottom:40px;
@@ -248,7 +252,7 @@ span#toggle-icon
     padding-bottom: 60px;
     opacity:0.1;
 }
-#team-detail img
+#team-detail img,#coordinator-info img
 {
     width:250px;
     height: 250px;
