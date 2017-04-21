@@ -57,6 +57,11 @@ a
     border-radius: 0;
     margin-top: 0;
     width: 100%;
+    float: left;
+}
+#navigation_bar
+{
+    float: right;
 }
 #navigation li a
 {
@@ -205,7 +210,7 @@ span#toggle-icon
 }
 #team-detail h1
 {
-    font-family: /*'Raleway', */'Ubuntu', 'Arvo', 'Open Sans', serif;
+    font-family: 'Raleway', 'Ubuntu', 'Arvo', 'Open Sans', serif;
     font-size: 2em;
     font-weight: bolder;
     letter-spacing: 2.5px;
@@ -376,7 +381,7 @@ span#toggle-icon
     text-decoration: underline;
     letter-spacing: 1.2px;
 }
-#event-highlights h1,#spread-love h1
+#event-highlights h1,#spread-love h1,#reach-us h1
 {
     text-align: center;
     /*font-family: 'Raleway','Open Sans', 'cursive';*/
@@ -461,6 +466,12 @@ form
     margin-right: 20%;
     margin-left: 20%;
 
+}
+#reach-us h1
+{
+    color: #000;
+    text-align: left;
+    margin-left: 3%;
 }
 #footer p,#footer a
 {
