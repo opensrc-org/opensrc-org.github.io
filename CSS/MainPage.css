@@ -246,6 +246,7 @@ span#toggle-icon
     text-transform: capitalize;
     width: 100%;
     padding-bottom: 60px;
+    opacity:0.1;
 }
 #team-detail img
 {
@@ -265,6 +266,7 @@ span#toggle-icon
     line-height: 1.7;
     background-color: transparent;
     color: #000;
+    opacity:0;
 }
 #about-us h1
 {
@@ -301,6 +303,7 @@ span#toggle-icon
    /* background-color: #d7d7d8;*/
     width:100%;
     padding-bottom: 80px;
+    opacity:0;
 }
 #what-we-love-to-do .row
 {
@@ -392,6 +395,10 @@ span#toggle-icon
     margin-top: 36px;
     text-decoration: underline;
     letter-spacing: 1.2px;
+}
+#event-highlights
+{
+    opacity:0;
 }
 #event-highlights h1,#spread-love h1,#reach-us h1
 {
