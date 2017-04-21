@@ -59,7 +59,19 @@ a
     width: 100%;
     float: left;
 }
-#navigation_bar
+/*#navigation_bar
+{
+    float: right;
+}*/
+/*#mynavbar
+{
+    float: right;
+}*/
+.logo-nav
+{
+    float: left;
+}
+.nav-info
 {
     float: right;
 }
