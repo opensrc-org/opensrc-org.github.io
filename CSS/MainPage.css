@@ -361,6 +361,13 @@ span#toggle-icon
     height: 250px;
     position: relative;
 }
+#div-1-front:hover
+{
+    animation-name: A6;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+    animation-delay: 0.2s;
+}
 #div-1-front span,#div-2-front span,#div-3-front span,#div-4-front span
 {
     margin-left: 42%;
@@ -561,6 +568,22 @@ form
         transform: scale(1);
     }
 
+}
+@keyframes A6 {
+    50%
+    {
+        transform: rotateZ(360deg) scaleY(1.1) skewX(25deg);
+        background-color: #4cae4c;
+        /*transform: scaleY(1.1);*/
+    }
+    75%
+    {
+        transform:scaleY(1.2);
+    }
+    100%
+    {
+        transform: scaleY(1.0);
+    }
 }
 @media only screen and (max-width: 768px) {
     #main-heading
