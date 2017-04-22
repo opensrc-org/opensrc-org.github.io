@@ -247,7 +247,7 @@ span#toggle-icon
     letter-spacing: 1px;
     /*line-height: 1.5;*/
     font-size: small;
-    text-transform: capitalize;
+    text-transform: none;
     width: 100%;
     padding-bottom: 60px;
     opacity:0.1;
@@ -291,7 +291,7 @@ span#toggle-icon
     /*padding-right: 60px;*/
     font-family: 'Source Code Pro', monospace;
     letter-spacing: 0.6px;
-    text-transform: capitalize;
+    text-transform: none;
     line-height: 35px;
 }
 /*#about-us h1,#what-we-love-to-do h1
