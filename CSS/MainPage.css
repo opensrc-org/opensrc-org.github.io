@@ -243,7 +243,7 @@ span#toggle-icon
 {
     font-family: 'Ubuntu', 'Arvo', 'Open Sans', serif;
     font-size: 1.2em;
-    color: white;
+    color: black;
     text-transform: uppercase;
     font-weight: 600;
 }
