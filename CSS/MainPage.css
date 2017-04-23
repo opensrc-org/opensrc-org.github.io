@@ -180,7 +180,7 @@ span#toggle-icon
 #team
 {
    /* background-color: #FCFCFC;*/
-    background-image: linear-gradient(to bottom, #0C1321 0%, #262E4A 100%);
+    background-image: linear-gradient(to bottom, #0C1321 50%, #262E4A 100%);
     width:100%;
     box-shadow: inset 0 0 40px #000;
 }
@@ -219,7 +219,7 @@ span#toggle-icon
 }
 #team
 {
-    margin-top: 40px;
+    /*margin-top: 40px;*/
 }
 #team-detail
 {
@@ -273,8 +273,11 @@ span#toggle-icon
     text-align: left;
     line-height: 1.7;
     background-color: transparent;
+    padding-bottom: 40px;
     color: #000;
     opacity:0;
+    background-image: linear-gradient(to bottom, white 50%, #DCD6FF 100%);
+    box-shadow: inset 0 0 40px lightgrey;
 }
 #about-us h1
 {
