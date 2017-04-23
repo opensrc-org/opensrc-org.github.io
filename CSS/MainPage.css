@@ -82,8 +82,9 @@ a
 }
 #navigation li a:hover
 {
-    background-color: #82B541;
-    color: white;
+    /*background-color: #82B541;*/
+    color: black;
+    border-bottom: 3px solid forestgreen;
     opacity: 1.0;
     font-weight: 900;
     z-index: 999;
@@ -179,10 +180,10 @@ span#toggle-icon
 }
 #team
 {
-   /* background-color: #FCFCFC;*/
-    background-image: linear-gradient(to bottom, #0C1321 50%, #262E4A 100%);
+    background-color: #FCFCFC;
+    /*background-image: linear-gradient(to bottom, #0C1321 50%, #262E4A 100%);*/
     width:100%;
-    box-shadow: inset 0 0 40px #000;
+    /*box-shadow: inset 0 0 40px #000;*/
 }
 #team-info img,#coordinator-info img
 {
@@ -209,7 +210,8 @@ span#toggle-icon
     font-size: 3em;
     font-weight: bolder;
     text-transform: capitalize;
-    color: #82B541;
+    /*color: #82B541;*/
+    color: skyblue;
     /*font-size: 2.5em;
     letter-spacing: 1.3px;
     word-spacing: 1.5px;
@@ -233,7 +235,8 @@ span#toggle-icon
     font-weight: bolder;
     letter-spacing: 2.5px;
     line-height: 0;
-    color: white;
+    /*color: white;*/
+    color: #000;
     text-decoration: underline;
 }
 #team-detail span
@@ -251,7 +254,8 @@ span#toggle-icon
     /*line-height: 1.5;*/
     font-size: small;
     text-transform: none;
-    color: lightgrey;
+    /*color: lightgrey;*/
+    color: #000;
     width: 100%;
     padding-bottom: 60px;
     opacity:0.1;
@@ -276,8 +280,8 @@ span#toggle-icon
     padding-bottom: 40px;
     color: #000;
     opacity:0;
-    background-image: linear-gradient(to bottom, white 50%, #DCD6FF 100%);
-    box-shadow: inset 0 0 40px lightgrey;
+    /*background-image: linear-gradient(to bottom, white 50%, #DCD6FF 100%);*/
+    /*box-shadow: inset 0 0 40px lightgrey;*/
 }
 #about-us h1
 {
@@ -290,7 +294,8 @@ span#toggle-icon
     text-align: left;
     text-transform: capitalize;
     margin-left: 2%;
-    color: #82B541;
+    /*color: #82B541;*/
+    color: skyblue;
 }
 #about-status
 {
