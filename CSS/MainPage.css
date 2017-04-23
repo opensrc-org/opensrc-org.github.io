@@ -179,7 +179,8 @@ span#toggle-icon
 }
 #team
 {
-    background-color: #FCFCFC;
+   /* background-color: #FCFCFC;*/
+    background-image: linear-gradient(to bottom, #0C1321 0%, #262E4A 100%);
     width:100%;
 }
 #team-info img,#coordinator-info img
@@ -231,13 +232,14 @@ span#toggle-icon
     font-weight: bolder;
     letter-spacing: 2.5px;
     line-height: 0;
+    color: white;
     text-decoration: underline;
 }
 #team-detail span
 {
     font-family: 'Ubuntu', 'Arvo', 'Open Sans', serif;
     font-size: 1.2em;
-    color: darkslategrey;
+    color: white;
     text-transform: uppercase;
     font-weight: 600;
 }
@@ -248,6 +250,7 @@ span#toggle-icon
     /*line-height: 1.5;*/
     font-size: small;
     text-transform: none;
+    color: whitesmoke;
     width: 100%;
     padding-bottom: 60px;
     opacity:0.1;
@@ -316,8 +319,8 @@ span#toggle-icon
 .recycling-holder,.heartbeat-holder,.empowerment-holder,.awareness-holder
 {
     position: relative;
-    margin-left: 3px;
-    margin-right: 3px;
+    /*margin-left: 3px;
+    margin-right: 3px;*/
     cursor: pointer;
 }
 #div-1-front
