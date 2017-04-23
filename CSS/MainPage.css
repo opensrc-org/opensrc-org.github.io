@@ -182,6 +182,7 @@ span#toggle-icon
    /* background-color: #FCFCFC;*/
     background-image: linear-gradient(to bottom, #0C1321 0%, #262E4A 100%);
     width:100%;
+    box-shadow: inset 0 0 40px #000;
 }
 #team-info img,#coordinator-info img
 {
