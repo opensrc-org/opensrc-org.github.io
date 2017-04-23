@@ -82,8 +82,8 @@ a
 }
 #navigation li a:hover
 {
-    background-color: skyblue;
-    color: #000;
+    background-color: #82B541;
+    color: white;
     opacity: 1.0;
     font-weight: 900;
     z-index: 999;
@@ -207,7 +207,7 @@ span#toggle-icon
     font-size: 3em;
     font-weight: bolder;
     text-transform: capitalize;
-    color: skyblue;
+    color: #82B541;
     /*font-size: 2.5em;
     letter-spacing: 1.3px;
     word-spacing: 1.5px;
@@ -224,7 +224,7 @@ span#toggle-icon
     text-align: center;
     margin-top: 40px;
 }
-#team-detail h1
+#team-detail h1,#coordinator-info h1
 {
     font-family: 'Raleway', 'Ubuntu', 'Arvo', 'Open Sans', serif;
     font-size: 2em;
@@ -283,7 +283,7 @@ span#toggle-icon
     text-align: left;
     text-transform: capitalize;
     margin-left: 2%;
-    color: skyblue;
+    color: #82B541;
 }
 #about-status
 {
@@ -442,7 +442,7 @@ span#toggle-icon
     /*padding-bottom: 70px;*/
     letter-spacing: 6px;
     padding-top: 5%;
-    color: skyblue;
+    color: #82B541;
     word-spacing: 1.8px;
     text-transform: capitalize;
     font-size: 3em;
