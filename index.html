@@ -12,6 +12,11 @@
     <link href="https://fonts.googleapis.com/css?family=Fredoka+One|Poiret+One|Source+Code+Pro" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family= Josefin+Sans|Roboto+Slab|Arvo|Josefin+Slab|Open+Sans|Ubuntu|Courgette|Dancing+Script|Satisfy|Raleway" rel="stylesheet">
     <link href="CSS/MainPage.css" rel="stylesheet">
+    <!--carousel file linking-->
+    <!--<link href="CSS/css/normalize.css" rel="stylesheet" type="text/css">-->
+    <!--<link href="CSS/css/demo.css" rel="stylesheet" type="text/css">-->
+   <!-- <link href="CSS/css/component.css" rel="stylesheet" type="text/css">-->
+
 
 
     <script src="JS/jquery.min.js"></script>
@@ -25,6 +30,15 @@
     <script src="JS/scrollFade.min.js"></script>
     <!--javascript file for loader on complete website-->
     <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>
+    <!--casrousel file linking-->
+    <!--<script src="JS/js/modernizr.custom.js"></script>-->
+    <!--<script src="JS/js/classie.js"></script>
+    <script src="JS/js/boxesFx.js"></script>
+
+    <script>
+        new BoxesFx( document.getElementById( 'boxgallery' ) );
+    </script>-->
+
     <script>
         $(function () {
             $(window).load(function () {
@@ -136,6 +150,17 @@
 
 
     <!--<script src="Slider_Script.js"></script>-->
+    <script>
+        $(function () {
+            $('nav a').click(function () {
+                var $href = $(this).attr('href');
+                $('body').stop().animate({
+                    scrollTop: $($href).offset().top
+                }, 500);
+                return false;
+            });
+        })
+    </script>
 </head>
 <body>
 <!--<div id="main-heading" class="container">
@@ -254,7 +279,33 @@
             </div>
         </div>
     </div>
-</div>
+    <!--<div class="codrops-top clearfix">
+        <a class="codrops-icon codrops-icon-prev" href="http://tympanus.net/Development/InlineAnchorStyles/"><span>Previous Demo</span></a>
+        <span class="right"><a class="codrops-icon codrops-icon-drop" href="http://tympanus.net/codrops/?p=19242"><span>Back to the Codrops Article</span></a></span>
+    </div>-->
+    <!--<div class="container">
+    <div id="boxgallery" class="boxgallery" data-effect="effect-1">
+        <div class="panel"><img src="Public_html/Slider_Images/image_23.png" alt="Image 1"/></div>
+        <div class="panel"><img src="Public_html/Slider_Images/image_22.png" alt="Image 2"/></div>
+        <div class="panel"><img src="Public_html/Slider_Images/image_13.png" alt="Image 3"/></div>
+        <div class="panel"><img src="Public_html/Slider_Images/image_22.png" alt="Image 4"/></div>
+    </div>
+    <header class="codrops-header">
+        <h1>Four Boxes Slideshow <span>Recreating the background image slideshow seen on <a href="http://www.atelier-serge-thoraval.com/en/">Atelier Serge Thoroval's website</a></span></h1>
+        <nav class="codrops-demos">
+            <a class="current-demo" href="index.html">Serge Thoroval</a>
+            <a href="#">Lateral</a>
+            <a href="#">Fall</a>
+        </nav>
+    </header>
+        <script src="JS/js/classie.js"></script>
+        <script src="JS/js/boxesFx.js"></script>
+
+        <script>
+            new BoxesFx( document.getElementById( 'boxgallery' ) );
+        </script>
+</div>-->
+<!--</div>-->
 <!--<script language="JavaScript" type="text/javascript">
     $(document).ready(function () {
 //            $('#carouselExampleSlidesOnly').carousel({
@@ -273,11 +324,6 @@
         </div>-->
 
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="about-status">
-            <!--Jaypee Institute of Information Technology, Noida was established in the year 2001 and has been declared as a “Deemed to be University” under Section 3 of UGC Act 1956 in the year 2004.
-
-            JIIT’s state-of-the-art, environmentally conditioned campus comprises smart buildings with Wi-Fi connectivity covering the Academic Block, Business School cum Research Block, Faculty Residences, Student Hostels and Annapurna. Well equipped modern laboratories and an intellectually stocked Learning Resource Centre with books and  E-Resources provide a pleasant and stimulating ambience.-->
-            <!--"No matter what people tell you, words and ideas change the world." -Robin Williams
-            Keeping his thought in our minds, we are a group of students pursuing graduation from Jaypee Institute Of Information Technology, Noida. We are a group of college students, coming from various societal and cultural backgrounds who've joined hands to try and make a change in our society and if not make, then just to inspire the minds around us about the burning issues and problems surrounding us. We are focused to initialize a revolutionary step against all the odds of our modern day society. We believe in the fact that whatever is happening around us, we are the ones who can be held responsible for, and this belief of ours motivates us to fight against the issues like poverty, child labor, child abuse and many more. We here at It's Our Earth constitutes students from diverse culture and backgrounds helping us to systematically scrutinize the problems faced in the modern day society and there by leading to the most efficient solution of the problem. We have the will power and are full of enthusiasm to bring a change that can be fruitful to every section of our society.-->
             we are a group of students pursuing graduation from <b>Jaypee Institute Of Information Technology, Noida</b>, coming from various societal and cultural backgrounds who've joined hands to try and make a change in our society and if not make, then just to inspire the minds around us about the burning issues and problems surrounding us. We are focused to initialize a revolutionary step against all the odds of our modern day society. We believe in the fact that whatever is happening around us, we are the ones who can be held responsible for, and this belief of ours motivates us to fight against the issues like poverty, child labor, child abuse and many more....
         </div>
     </div>
@@ -618,5 +664,6 @@
 </div>
 
 
+</div>
 </body>
 </html>
