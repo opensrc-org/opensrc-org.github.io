@@ -18,6 +18,245 @@
    <!-- <link href="CSS/css/component.css" rel="stylesheet" type="text/css">-->
 
 
+    <!--style for side navigation bar-->
+    <!--<style>
+        /*html, body {
+            height: 100%;
+            width: 100%;
+            margin: 0;
+            background: #263238;
+            font-family: 'Roboto';
+        }*/
+
+        button {
+            background: none;
+            border: none;
+        }
+        button::-moz-focus-inner {
+            border: 0;
+        }
+
+        :focus { outline: none; }
+
+        ::-moz-focus-inner {
+            border: 0;
+        }
+
+        .btn-nav:hover { cursor: pointer; }
+
+        .btn-nav:hover .bar { background: #17BEBB; }
+
+        .bar {
+            display: block;
+            height: 5px;
+            width: 50px;
+            background: #fff;
+            margin: 10px auto;
+        }
+
+        .btn-nav {
+            display: block;
+            padding: 15px 0;
+            width: 50px;
+            position: fixed;
+            left: 20px;
+            margin: 0 auto;
+            -webkit-transition: all 1s ease;
+            -moz-transition: all 1s ease;
+            -ms-transition: all 1s ease;
+            -o-transition: all 1s ease;
+            transition: all 1s ease;
+        }
+
+        .btn-nav:focus { outline: none; }
+
+        .middle { margin: 0 auto; }
+
+        .bar {
+            -webkit-transition: all .7s ease;
+            -moz-transition: all .7s ease;
+            -ms-transition: all .7s ease;
+            -o-transition: all .7s ease;
+            transition: all .7s ease;
+        }
+
+        .animated { z-index: 999; }
+
+        .animated .arrow-top-r {
+            -webkit-transform: rotateZ(-45deg) translateY(11px);
+            -moz-transform: rotateZ(-45deg) translateY(11px);
+            -ms-transform: rotateZ(-45deg) translateY(11px);
+            -o-transform: rotateZ(-45deg) translateY(11px);
+            transform: rotateZ(-45deg) translateY(11px);
+            width: 25px;
+        }
+
+        .animated .arrow-middle-r {
+            -webkit-transform: translateX(25px);
+            -moz-transform: translateX(25px);
+            -ms-transform: translateX(25px);
+            -o-transform: translateX(25px);
+            transform: translateX(25px);
+        }
+
+        .animated .arrow-bottom-r {
+            -webkit-transform: rotateZ(45deg) translateY(-11px);
+            -moz-transform: rotateZ(45deg) translateY(-11px);
+            -ms-transform: rotateZ(45deg) translateY(-11px);
+            -o-transform: rotateZ(45deg) translateY(-11px);
+            transform: rotateZ(45deg) translateY(-11px);
+            width: 25px;
+        }
+
+        .nav-container {
+            position: absolute;
+            left: -50%;
+            top: 0;
+            background: #CD5334;
+            height: 100%;
+            width: 150px;
+        }
+
+        .nav-list {
+            cursor: pointer;
+            list-style-type: none;
+            top: 50%;
+            text-align: center;
+            position: relative;
+            margin: 0;
+            padding: 0;
+            -webkit-transform: translateY(-50%);
+            -moz-transform: translateY(-50%);
+            -ms-transform: translateY(-50%);
+            -o-transform: translateY(-50%);
+            transform: translateY(-50%);
+        }
+
+        .list-item {
+            margin: 20px auto;
+            border: 2px solid #fff;
+            width: 50px;
+            padding: 15px;
+            -webkit-transition: all 1s ease;
+            -moz-transition: all 1s ease;
+            -ms-transition: all 1s ease;
+            -o-transition: all 1s ease;
+            transition: all 1s ease;
+        }
+
+        .list-item:hover {
+            border: 2px solid #17BEBB;
+            -webkit-transition: all 1s ease;
+            -moz-transition: all 1s ease;
+            -ms-transition: all 1s ease;
+            -o-transition: all 1s ease;
+            transition: all 1s ease;
+        }
+
+        .list-item:hover .fa {
+            color: #17BEBB;
+            -webkit-transform: scale(1.5);
+            -moz-transform: scale(1.5);
+            -ms-transform: scale(1.5);
+            -o-transform: scale(1.5);
+            transform: scale(1.5);
+            -webkit-transition: all 1s ease;
+            -moz-transition: all 1s ease;
+            -ms-transition: all 1s ease;
+            -o-transition: all 1s ease;
+            transition: all 1s ease;
+        }
+
+        .list-item a {
+            color: #fff;
+            font-size: 1.7em;
+            display: block;
+            width: 100%;
+        }
+
+        .fa {
+            -webkit-transition: all 1s ease;
+            -moz-transition: all 1s ease;
+            -ms-transition: all 1s ease;
+            -o-transition: all 1s ease;
+            transition: all 1s ease;
+        }
+        @keyframes
+        showNav { from {
+            left: -100%;
+        }
+
+            to { left: 0; }
+        }
+        @-webkit-keyframes
+        showNav { from {
+            left: -100%;
+        }
+
+            to { left: 0; }
+        }
+        @-moz-keyframes
+        showNav { from {
+            left: -100%;
+        }
+
+            to { left: 0; }
+        }
+        @-o-keyframes
+        showNav { from {
+            left: -100%;
+        }
+
+            to { left: 0; }
+        }
+
+        .showNav {
+            -webkit-animation: showNav .5s ease forwards;
+            -moz-animation: showNav 1s ease forwards;
+            -o-animation: showNav 1s ease forwards;
+            animation: showNav .5s ease forwards;
+        }
+        @keyframes
+        hideNav { from {
+            left: 0;
+        }
+
+            to { left: -100%; }
+        }
+        @-webkit-keyframes
+        hideNav { from {
+            left: 0;
+        }
+
+            to { left: -100%; }
+        }
+        @-moz-keyframes
+        hideNav { from {
+            left: 0;
+        }
+
+            to { left: -100%; }
+        }
+        @-o-keyframes
+        hideNav { from {
+            left: 0;
+        }
+
+            to { left: -100%; }
+        }
+
+        .hideNav {
+            -webkit-animation: hideNav 1s ease forwards;
+            -moz-animation: hideNav 1s ease forwards;
+            -o-animation: hideNav 1s ease forwards;
+            animation: hideNav 1s ease forwards;
+        }
+
+        .hidden { display: none; }
+        h1 { position:absolute; top:150px; left:250px; color:#fff;}
+        .jquery-script-ads { position:absolute; top:350px; left:250px;}
+    </style>-->
+
 
     <script src="JS/jquery.min.js"></script>
     <script src="JS/app.js"></script>
@@ -150,13 +389,15 @@
 
 
     <!--<script src="Slider_Script.js"></script>-->
+
+    <!--smooth scrolling on navigation bar added-->
     <script>
         $(function () {
             $('nav a').click(function () {
                 var $href = $(this).attr('href');
                 $('body').stop().animate({
                     scrollTop: $($href).offset().top
-                }, 500);
+                }, 700);
                 return false;
             });
         })
@@ -195,6 +436,29 @@
 
             <div class="logo-nav">
                 <img src="Public_html/logo_ioe.png" style="height: 55px;">
+                <!--<button class="btn-nav">
+                    <div class="bar arrow-top-r"></div>
+                    <div class="bar arrow-middle-r"></div>
+                    <div class="bar arrow-bottom-r"></div>
+                </button>
+                <nav class="nav-container hidden hideNav">
+                    <ul class="nav-list">
+                        <li class="list-item"><a href=""><i class="fa fa-home"></i></a></li>
+                        <li class="list-item"><a href=""><i class="fa fa-credit-card-alt"></i></a></li>
+                        <li class="list-item"><a href=""><i class="fa fa-usb"></i></a></li>
+                        <li class="list-item"><a href=""><i class="fa fa-edge"></i></a></li>
+                        <li class="list-item"><a href=""><i class="fa fa-shopping-basket"></i></a></li>
+                    </ul>
+                </nav>
+                &lt;!&ndash;<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>&ndash;&gt;
+                <script>
+                    $(window).load(function() {
+                        $(".btn-nav").on("click tap", function() {
+                            $(".nav-container").toggleClass("showNav hideNav").removeClass("hidden");
+                            $(this).toggleClass("animated");
+                        });
+                    });
+                </script>-->
             </div>
 
             <div class="nav-info">
@@ -207,7 +471,7 @@
                     <a href="#about-us">ABOUT US</a>
                 </li>
                 <li>
-                    <a href="Public_html/Thanks.html">EVENTS</a>
+                    <a href="#event-highlights">EVENTS</a>
                 </li>
                 <li>
                     <a href="Public_html/team.html">TEAM</a>
@@ -216,7 +480,7 @@
                     <a href="#">GALLERY</a>
                 </li>
                 <li>
-                    <a href="Public_html/Contact_Us.html">CONTACT US</a>
+                    <a href="#spread-love">CONTACT US</a>
                 </li>
             </ul>
             </div>
@@ -224,6 +488,29 @@
     </div>
 </nav>
 
+<!--<button class="btn-nav">
+    <div class="bar arrow-top-r"></div>
+    <div class="bar arrow-middle-r"></div>
+    <div class="bar arrow-bottom-r"></div>
+</button>
+</div>
+<nav class="nav-container hidden hideNav">
+    <ul class="nav-list">
+        <li class="list-item"><a href=""><i class="fa fa-home"></i></a></li>
+        <li class="list-item"><a href=""><i class="fa fa-credit-card-alt"></i></a></li>
+        <li class="list-item"><a href=""><i class="fa fa-usb"></i></a></li>
+        <li class="list-item"><a href=""><i class="fa fa-edge"></i></a></li>
+        <li class="list-item"><a href=""><i class="fa fa-shopping-basket"></i></a></li>
+    </ul>
+</nav>
+<script>
+    $(window).load(function() {
+        $(".btn-nav").on("click tap", function() {
+            $(".nav-container").toggleClass("showNav hideNav").removeClass("hidden");
+            $(this).toggleClass("animated");
+        });
+    });
+</script>-->
 
 
 
