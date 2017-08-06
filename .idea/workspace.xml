@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d07aba69-2902-447a-a232-63d2eca56303" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Gallery/AI.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Logo_Images/Extra_Logo/logo-icsa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Logo_Images/Extra_Logo/logo-jiit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Logo_Images/Extra_Logo/logo_ioe.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Logo_Images/ashishkr.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Logo_Images/kanupriya.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Logo_Images/logo_ioe.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/MainPage.css" afterPath="$PROJECT_DIR$/CSS/MainPage.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Cracker_Free.html" afterPath="$PROJECT_DIR$/Public_html/Cracker_Free.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Dia_Making.html" afterPath="$PROJECT_DIR$/Public_html/Dia_Making.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Quit_Weed_And_Succeed.html" afterPath="$PROJECT_DIR$/Public_html/Quit_Weed_And_Succeed.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -40,11 +48,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainPage.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainPage.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS/MainPage.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="783">
-              <caret line="299" column="24" lean-forward="false" selection-start-line="299" selection-start-column="24" selection-end-line="299" selection-end-column="24" />
+            <state relative-caret-position="-2754">
+              <caret line="267" column="1" lean-forward="false" selection-start-line="267" selection-start-column="1" selection-end-line="267" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cracker_Free.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Public_html/Cracker_Free.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="36" column="27" lean-forward="false" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dia_Making.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Public_html/Dia_Making.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="28" column="28" lean-forward="false" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Quit_Weed_And_Succeed.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Public_html/Quit_Weed_And_Succeed.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="32" column="39" lean-forward="false" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -104,6 +142,9 @@
         <option value="$PROJECT_DIR$/Public_html/team.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/CSS/MainPage.css" />
+        <option value="$PROJECT_DIR$/Public_html/Cracker_Free.html" />
+        <option value="$PROJECT_DIR$/Public_html/Dia_Making.html" />
+        <option value="$PROJECT_DIR$/Public_html/Quit_Weed_And_Succeed.html" />
       </list>
     </option>
   </component>
@@ -152,6 +193,11 @@
             <path>
               <item name="new_ioe" type="b2602c69:ProjectViewProjectNode" />
               <item name="new_ioe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new_ioe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new_ioe" type="462c0819:PsiDirectoryNode" />
+              <item name="Public_html" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -274,12 +320,12 @@
       <workItem from="1497719570924" duration="2349000" />
       <workItem from="1501052465569" duration="2843000" />
       <workItem from="1501952012377" duration="355000" />
-      <workItem from="1501965427434" duration="10240000" />
+      <workItem from="1501965427434" duration="11722000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117719000" />
+    <option name="totallyTimeSpent" value="119201000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -351,36 +397,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Public_html/Contact_Us.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1250">
-          <caret line="50" column="10" lean-forward="false" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Public_html/team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/team.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2500">
-          <caret line="100" column="43" lean-forward="true" selection-start-line="100" selection-start-column="43" selection-end-line="100" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -691,8 +707,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/MainPage.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="299" column="24" lean-forward="false" selection-start-line="299" selection-start-column="24" selection-end-line="299" selection-end-column="24" />
+        <state relative-caret-position="-2754">
+          <caret line="267" column="1" lean-forward="false" selection-start-line="267" selection-start-column="1" selection-end-line="267" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public_html/Best_Out_Of_Waste.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1371">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public_html/Dia_Making.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="28" column="28" lean-forward="false" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public_html/Cracker_Free.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="36" column="27" lean-forward="false" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public_html/Quit_Weed_And_Succeed.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="32" column="39" lean-forward="false" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
           <folding />
         </state>
       </provider>
