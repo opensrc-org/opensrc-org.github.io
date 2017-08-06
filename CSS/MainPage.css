@@ -265,8 +265,7 @@ span#toggle-icon
 #what-we-love-to-do
 {
     width:100%;
-    padding-bottom: 80px;
-    opacity:1;
+    /*padding-bottom: 80px;*/
 }
 #what-we-love-to-do .row
 {
@@ -350,6 +349,7 @@ span#toggle-icon
 {
     margin-left: 42%;
     margin-right: 42%;
+    display: block;
     margin-top: 18px;
     color: white;
 }
@@ -386,9 +386,9 @@ span#toggle-icon
 }
 #event-highlights
 {
-    opacity:0;
+    opacity:1;
 }
-#event-highlights h1,#spread-love h1,#reach-us h1
+#event-highlights h1,#spread-love h1,#reach-us h1,#what-we-love-to-do h1
 {
     text-align: center;
     font-family: 'Raleway', cursive;
@@ -446,8 +446,9 @@ span#toggle-icon
 }
 .video iframe#youtube
 {
-    min-height: 100%;
-    min-width: 70%;
+    /*min-height: 100%;
+    min-width: 70%;*/
+   display: none;
 }
 .video iframe#updates
 {
@@ -497,7 +498,7 @@ form
     margin-top: 30%;
     margin-left: 10%;
 }
-
+/*
 @keyframes A1 {
     50%
     {
@@ -546,7 +547,7 @@ form
     {
         transform: rotateZ(360deg) scaleY(1.1) skewX(25deg);
         background-color: #4cae4c;
-        /*transform: scaleY(1.1);*/
+        !*transform: scaleY(1.1);*!
     }
     75%
     {
@@ -560,10 +561,10 @@ form
 @keyframes A8 {
     50%
     {
-        transform: rotateY(90deg) scaleY(1.1) /*skewX(25deg)*/;
+        transform: rotateY(90deg) scaleY(1.1) !*skewX(25deg)*!;
         background-color: red;
-        /*background-color: #4cae4c;*/
-        /*transform: scaleY(1.1);*/
+        !*background-color: #4cae4c;*!
+        !*transform: scaleY(1.1);*!
     }
     75%
     {
@@ -577,14 +578,14 @@ form
 @keyframes A10 {
     50%
     {
-        transform: /*rotateX(180deg)*/ scaleY(1.1) /*skewX(25deg)*/;
-        /*background-color: red;*/
-        /*background-color: #4cae4c;*/
-        /*transform: scaleY(1.1);*/
+        transform: !*rotateX(180deg)*! scaleY(1.1) !*skewX(25deg)*!;
+        !*background-color: red;*!
+        !*background-color: #4cae4c;*!
+        !*transform: scaleY(1.1);*!
     }
     75%
     {
-        transform: rotateX(180deg) rotateY(180deg); /*scaleY(0.8)*/
+        transform: rotateX(180deg) rotateY(180deg); !*scaleY(0.8)*!
         opacity: 0.3;
     }
     100%
@@ -595,23 +596,23 @@ form
 @keyframes A12 {
     50%
     {
-        transform: /*rotateX(180deg)*/translateY(14px) /*scaleY(1.1) *//*skewX(25deg)*/;
-        /*background-color: red;*/
-        /*background-color: #4cae4c;*/
-        /*transform: scaleY(1.1);*/
+        transform: !*rotateX(180deg)*!translateY(14px) !*scaleY(1.1) *!!*skewX(25deg)*!;
+        !*background-color: red;*!
+        !*background-color: #4cae4c;*!
+        !*transform: scaleY(1.1);*!
     }
     75%
     {
-        transform: /*rotateX(180deg)*//* rotateY(180deg)*/ scaleX(0.5) scaleY(0.5);
+        transform: !*rotateX(180deg)*!!* rotateY(180deg)*! scaleX(0.5) scaleY(0.5);
         background-color: #9fbb58;
 
-        /*opacity: 0.3;*/
+        !*opacity: 0.3;*!
     }
     100%
     {
         transform: scaleY(1.0);
     }
-}
+}*/
 
 @media only screen and (max-width: 768px) {
     #main-heading
