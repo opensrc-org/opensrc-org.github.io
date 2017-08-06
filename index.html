@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>It's Our Earth</title>
+    <title>It's Our Earth|Jaypee Institute Of Information Technology</title>
     <link rel="shortcut icon" href="favicon.ico">
     <!--<link rel="icon" href="favicon.ico" type="image/x-icon">-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -101,45 +101,8 @@
             );
         })
     </script>
-    <script>
-        $(document).ready(function() {
 
-            /* Every time the window is scrolled ... */
-            $(window).scroll( function(){
 
-                /* Check the location of each desired element */
-                $('#about-us,#team-info p,#what-we-love-to-do,#event-highlights').each( function(i){
-
-                    var bottom_of_object = $(this).offset().top + $(this).outerHeight();
-                    var bottom_of_window = $(window).scrollTop() + $(window).height();
-
-                    /* If the object is completely visible in the window, fade it it */
-                    if( bottom_of_window > bottom_of_object ){
-
-                        $(this).animate({'opacity':'1'
-                                        },{
-                            duration: 'slow',
-                            easing: 'swing'
-                        });
-
-                    }
-
-                });
-
-            });
-
-        });
-    </script>
-    <!--<script>
-        $(document).ready(function(){
-            $("#main-heading").sticky({topSpacing:0});
-        });
-    </script>-->
-    <!--<script>
-        $(function () {
-            $(".navbar").stick_in_parent();
-        })
-    </script>-->
 
 
     <!--<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>-->
@@ -179,6 +142,13 @@
 
 <nav class="navbar navbar-dark">
     <div class="container-fluid" id="navigation_bar">
+
+
+        <div class="navbar-header">
+            <a class="navbar-brand" href="#">
+                <img src="Public_html/logo_ioe.png" style="height: 50px; margin-top: -10%">
+            </a>
+        </div>
         <!--<h1>Ashish Goyal</h1>-->
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mynavbar">
 
@@ -187,10 +157,10 @@
 
         <div class="collapse navbar-collapse" id="mynavbar">
 
-            <div class="logo-nav">
+            <!--<div class="logo-nav">
                 <img src="Public_html/logo_ioe.png" style="height: 65px;">
 
-            </div>
+            </div>-->
 
             <div class="nav-info">
             <ul id="navigation" class="nav navbar-nav">
