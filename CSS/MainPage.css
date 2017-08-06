@@ -204,14 +204,12 @@ span#toggle-icon
 }
 #team-detail h1,#coordinator-info h1
 {
-    font-family: 'Raleway', 'Ubuntu', 'Arvo', 'Open Sans', serif;
+    font-family: 'Nunito', 'Ubuntu', 'Arvo', 'Open Sans', serif;
     font-size: 2em;
     font-weight: bolder;
     letter-spacing: 2.5px;
     line-height: 0;
-    /*color: white;*/
     color: #000;
-    text-decoration: underline;
 }
 #team-detail span
 {
@@ -225,14 +223,12 @@ span#toggle-icon
 {
     font-family: 'Open Sans', 'cursive';
     letter-spacing: 1px;
-    /*line-height: 1.5;*/
     font-size: small;
     text-transform: none;
-    /*color: lightgrey;*/
     color: #000;
     width: 100%;
     padding-bottom: 60px;
-    opacity:0.1;
+    opacity:1;
 }
 #team-detail img,#coordinator-info img
 {
@@ -282,8 +278,6 @@ span#toggle-icon
 .recycling-holder,.heartbeat-holder,.empowerment-holder,.awareness-holder
 {
     position: relative;
-    /*margin-left: 3px;
-    margin-right: 3px;*/
     cursor: pointer;
 }
 #div-1-front
@@ -303,7 +297,7 @@ span#toggle-icon
 }
 #div-1-back #div-1,#div-2-back #div-2,#div-3-back #div-3,#div-4-back #div-4
 {
-    font-family: "Open Sans", cursive;
+    font-family: "Nunito", cursive;
     font-size: 15px;
     font-weight: bold;
     letter-spacing: 1.5px;
@@ -387,8 +381,7 @@ span#toggle-icon
     text-transform: uppercase;
     color: whitesmoke;
     font-size: 25px;
-    /*font-family: 'Poiret One', cursive;*/
-    font-family: 'Fredoka One', cursive;
+    font-family: 'Nunito', cursive;
     font-weight: bolder;
     margin-top: 36px;
     text-decoration: underline;
@@ -401,14 +394,10 @@ span#toggle-icon
 #event-highlights h1,#spread-love h1,#reach-us h1
 {
     text-align: center;
-    /*font-family: 'Raleway','Open Sans', 'cursive';*/
-    font-family: 'Poiret One', cursive;
+    font-family: 'Raleway', cursive;
     font-weight: bolder;
-    /*text-decoration: underline;*/
-    /*padding-bottom: 70px;*/
-    letter-spacing: 6px;
     padding-top: 5%;
-    color: #82B541;
+    color: cornflowerblue;
     word-spacing: 1.8px;
     text-transform: capitalize;
     font-size: 3em;
