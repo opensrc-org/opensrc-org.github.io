@@ -3,8 +3,72 @@ body,html
     height: 100%;
     background-color: whitesmoke;
 }
+a
+{
+    font-family: 'Raleway','Open Sans', 'cursive';
+    font-size: medium;
+    letter-spacing: 1.2px;
+}
+.navbar
+{
+
+    width: 100%;
+    height:auto;
+    top: 0;
+    border-radius: 0%;
+    z-index: 99;
+    position: fixed;
+    background-color: white;
+    box-shadow: 0 0 10px 0 black;
+}
+.nav-info
+{
+    float: right;
+}
+#navigation li a
+{
+    color: black;
+    opacity: 1;
+    transition: all 0.6s ease-in;
+    font-size: smaller;
+    text-align: center;
+}
+#navigation li a:hover
+{
+    /*background-color: #82B541;*/
+    color: black;
+    border-bottom: 3px solid cornflowerblue;
+    opacity: 1.0;
+    font-weight: 900;
+    z-index: 999;
+}
+#navigation li a:active
+{
+    background-color: #ffffff;
+    color: #000;
+}
+span
+{
+    color: whitesmoke;
+}
+span.after_shrink
+{
+    color: #000;
+    font-weight: bolder;
+    font-size: medium;
+    font-family: 'Open Sans', 'Ubuntu', 'Arvo', serif;
+    word-spacing: 4px;
+    letter-spacing:2px;
+    margin-right: 1%;
+    text-transform: capitalize;
+}
+span#toggle-icon
+{
+    color: black;
+}
 .heading
 {
+    margin-top: 57px;
     height: 40%;
     background-color: cornflowerblue;
     color: #FFFFFF;
@@ -19,7 +83,7 @@ body,html
     font-size: 4em;
     letter-spacing: 1.5px;
 }
-.container-fluid
+#team_profile
 {
     margin: 4% 6% 6% 6%;
 }
@@ -49,4 +113,16 @@ div.copyright
     padding-bottom: 1%;
     font-family: 'Arimo', 'Arvo', serif;
     font-size: medium;
+}
+@media(max-width: 768px)
+{
+    .navbar
+    {
+        display: none;
+    }
+    .heading
+    {
+        top:0;
+        margin-top: 0;
+    }
 }
