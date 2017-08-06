@@ -381,7 +381,6 @@ span#toggle-icon
     font-family: 'Nunito', cursive;
     font-weight: bolder;
     margin-top: 36px;
-    text-decoration: underline;
     letter-spacing: 1.2px;
 }
 #event-highlights
@@ -442,7 +441,7 @@ span#toggle-icon
 }
 #spread-love h1
 {
-    color: #000;
+    color: cornflowerblue;
 }
 .video iframe#youtube
 {
@@ -472,7 +471,7 @@ form
 }
 #reach-us h1
 {
-    color: #000;
+    color: cornflowerblue;
     text-align: left;
     margin-left: 3%;
 }
