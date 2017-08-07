@@ -68,7 +68,7 @@ span#toggle-icon
 }
 .heading
 {
-    margin-top: 57px;
+    margin-top: 53px;
     height: 40%;
     background-color: cornflowerblue;
     color: #FFFFFF;
@@ -79,6 +79,7 @@ span#toggle-icon
     text-align: center;
     font-weight: 100;
     padding-top: 8%;
+    padding-bottom: 8%;
     font-family: 'Raleway', serif;
     font-size: 4em;
     letter-spacing: 1.5px;
