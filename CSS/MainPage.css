@@ -398,6 +398,10 @@ span#toggle-icon
     text-transform: capitalize;
     font-size: 3em;
 }
+#what-we-love-to-do h1
+{
+    padding-top: 0;
+}
 #event-highlights button
 {
     font-family: 'Raleway', 'Open Sans', 'cursive';
