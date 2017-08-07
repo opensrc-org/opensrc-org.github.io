@@ -14,7 +14,7 @@
     <link href="https://fonts.googleapis.com/css?family=Nunito|Poiret+One|Source+Code+Pro" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family= Josefin+Sans|Roboto+Slab|Arvo|Josefin+Slab|Open+Sans|Ubuntu|Courgette|Dancing+Script|Satisfy|Raleway" rel="stylesheet">
     <link href="CSS/MainPage.css" rel="stylesheet">
-
+    <link href="CSS/animate.css" rel="stylesheet">
 
     <!--carousel file linking-->
     <!--<link href="CSS/css/normalize.css" rel="stylesheet" type="text/css">-->
@@ -31,7 +31,10 @@
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
     <script src="JS/jQuery.scrollSpeed.js"></script>
-
+    <script src="JS/wow.min.js" type="text/javascript"></script>
+    <script>
+        new WOW().init();
+    </script>
     <!--<script src="JS/jquery.sticky.js"></script>-->
     <!--<script src="https://cdn.rawgit.com/leafo/sticky-kit/v1.1.2/jquery.sticky-kit.min.js"></script>-->
     <script src="JS/scrollFade.min.js"></script>
@@ -248,7 +251,7 @@
     });
 </script>-->
 
-<div class="container-fluid" id="about-us">
+<div class="container-fluid wow slideInUp" id="about-us">
     <div class="col-lg-12">
         <h1>about us</h1>
     </div>
@@ -263,14 +266,14 @@
     </div>
 </div>
 
-<div class="container-fluid" id="team">
+<div class="container-fluid wow slideInUp" id="team" data-wow-duration="1.5s">
     <div id="heading-team" class="col-lg-12">
         <div class="row">
             <h1>our leaders</h1>
         </div>
     </div>
     <div id="team-detail" class="container">
-        <div  id="team-info" class="col-lg-12 col-md-12">
+        <div  id="team-info" class="col-lg-12 col-md-12 ">
             <div class="col-lg-6 col-md-6 col-sm-6">
                 <img  src="Public_html/Team_Images/Shaurya_Singh.png">
                 <h1>Shaurya Singh</h1>
@@ -317,11 +320,11 @@
 
 
 <div class="container-fluid" id="what-we-love-to-do">
-    <div class="col-lg-12">
+    <div class="col-lg-12 wow zoomIn">
          <h1>what we love to do</h1>
     </div>
     <div class="row">
-        <div class="recycling-holder">
+        <div class="recycling-holder wow zoomIn">
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12" id="div-1-front">
                 <span class="fa fa-recycle fa-4x img-responsive center-block"></span>
                 <p>recycling</p>
@@ -333,7 +336,7 @@
         </div>
 
 
-        <div class="heartbeat-holder">
+        <div class="heartbeat-holder wow slideInDown">
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12" id="div-2-front">
                 <span class="fa fa-heartbeat fa-4x img-responsive center-block"></span>
                 <p>healthcare</p>
@@ -345,7 +348,7 @@
         </div>
 
 
-        <div class="empowerment-holder">
+        <div class="empowerment-holder wow zoomIn">
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12" id="div-3-front">
                 <span class="fa fa-intersex fa-4x img-responsive center-block"></span>
                 <p>empowerment</p>
@@ -356,7 +359,7 @@
         </div>
 
 
-        <div class="awareness-holder">
+        <div class="awareness-holder wow slideInDown">
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12" id="div-4-front">
                 <span class="fa fa-send-o fa-4x text-center"></span>
                 <p>awareness</p>
@@ -517,7 +520,7 @@
             </div>
         </div>-->
 
-    <div class="Help-us">
+    <div class="Help-us wow zoomIn">
         <!--<div class="container">-->
         <div class="row" id="spread-love">
             <h1>we <span class="fa fa-heart" style="color: red"></span> to help you</h1>
@@ -568,7 +571,7 @@
                 </div>-->
             </div>
         </div>
-        <div class="container-fluid">
+        <div class="container-fluid wow zoomIn">
             <div class="row" id="reach-us">
                 <h1>locate us</h1>
             </div>
