@@ -43,16 +43,22 @@ a
 
 .navbar
 {
-
     width: 100%;
     height:auto;
-   /* float: left;*/
     z-index: 99;
     position: fixed;
-    background-color: white;
-    box-shadow: 0 0 10px 0 black;
+    background-color: transparent;
 }
-
+.shrink
+{
+    display: block;
+    background-color: lightgray;
+    transition: all 1s ease-in-out;
+}
+.shrink_1
+{
+    color: #000;
+}
 .nav-info
 {
     float: right;
@@ -60,10 +66,11 @@ a
 
 #navigation li a
 {
-    color: black;
+    color: white;
     opacity: 1;
     transition: all 0.6s ease-in;
     font-size: small;
+    font-weight: 800;
     text-align: center;
 }
 #navigation li a:hover
@@ -108,15 +115,22 @@ span#toggle-icon
     width:100%;
     opacity: 1;
 }
-#status_1,#status_2
+div h1.status
 {
     font-family: 'Raleway','Satisfy','Dancing Script', cursive;
     font-size: 48px;
     margin-bottom: 150px;
-    background-color: rgba(0,0,0,0.2);
+    background-color: rgba(0,0,0,0.4);
     letter-spacing: 1px;
     line-height: 1.5;
     border-radius: 8px;
+    font-weight: 700;
+}
+span.status
+{
+    font-size: 30px;
+    font-weight: 900;
+    font-family: 'Nunito','Satisfy','Dancing Script', cursive;
 }
 .carousel .carousel-indicators li
 {
