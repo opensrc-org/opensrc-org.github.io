@@ -469,20 +469,24 @@ form
     margin-left: 3%;
 }
 nav.google-maps ul {
-    background: rgba(57,169,164, 0.8);
+    /*background: rgba(57,110,164, 0.4);*/
+    background-color: rgba(0,0,0,0.6);
     color: #fff;
     margin: 4em 5em !important;
     padding: 1.5em;
     position: absolute;
     right: 0;
     text-align: left;
-    width: 400px;
+    width: 440px;
     z-index: 99;
 }
 
 nav.google-maps ul li strong {
     display: block;
-    font-size: 18px;
+    font-family: "Raleway", cursive;
+    font-weight: 900;
+    letter-spacing: 1px;
+    font-size: 16px;
     margin-top: 20px;
 }
 #footer p,#footer a
