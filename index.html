@@ -41,6 +41,8 @@
     <script src="JS/scrollFade.min.js"></script>
     <!--javascript file for loader on complete website-->
     <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>
+
+
     <!--casrousel file linking-->
     <!--<script src="JS/js/modernizr.custom.js"></script>-->
     <!--<script src="JS/js/classie.js"></script>
@@ -57,19 +59,7 @@
             });
         });
     </script>
-   <!-- <script>
-        $(function () {
-            $('#about-us').scrollFadeOut(200,800);
-        })
-    </script>-->
 
-    <!--<script>
-        $(function() {
-
-            jQuery.scrollSpeed(200, 1000);
-
-        });
-    </script>-->
     <script>
         $(function () {
             $('.slick').slick(
@@ -286,9 +276,7 @@
         <h1>about us</h1>
     </div>
     <div class="col-lg-12">
-        <!--<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" id="hub-logo">
-            <img src="Public_html/logo_ioe.png" class="img-responsive">
-        </div>-->
+
 
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="about-status">
             We are a group of students pursuing graduation from <b>Jaypee Institute Of Information Technology, Noida</b>, coming from various societal and cultural backgrounds who've joined hands to try and make a change in our society and if not make, then just to inspire the minds around us about the burning issues and problems surrounding us. We are focused to initialize a revolutionary step against all the odds of our modern day society. We believe in the fact that whatever is happening around us, we are the ones who can be held responsible for, and this belief of ours motivates us to fight against the issues like poverty, child labor, child abuse and many more....
@@ -358,7 +346,7 @@
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12" id="div-1-front">
                 <span class="fa fa-recycle fa-4x img-responsive center-block"></span>
                 <p>recycling</p>
-                <!--<h2>Ashish Goyal</h2>-->
+
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="div-1-back">
                     <p id="div-1">We Encourage Our engineers For Reclying Products In Various Ways..</p>
                 </div>
@@ -402,15 +390,8 @@
 </div>
 
 
-<div class="video">
-    <iframe id="youtube" width="100%" height="500px" src="https://www.youtube.com/embed/usdRbCRb9bg" frameborder="0" allowfullscreen></iframe>
-    <!--<iframe id= "updates" width="auto" height="450px" style="background-color: #cccccc" src=""></iframe>-->
-</div>
 
-<!--<div class="updates">
-    <iframe width="100%" height="400" style="background-color: #cccccc" src="Public_html/Thanks.html">
-    </iframe>
-</div>-->
+
 
 
 <div class="container-fluid" id="event-highlights">
@@ -418,51 +399,7 @@
         <h1>
             event highlights
         </h1>
-        <!--<div class="slides">
-        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-            <div class="view hm-zoom" id="tree-event">
-                <img src="Public_html/Sub_Gallery/image_22.jpg" class="img-fluid">
-                <div class="mask flex-center"  id="tree-button">
-                        <p>QWAS</p>
-                    <a href="Public_html/Quit_Weed_And_Succeed.html" target="_blank"><button class="btn btn-info">DETAILS</button></a>
-                    </div>
-            </div>
 
-
-        </div>
-
-        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-            <div class="view hm-zoom" id="smoke-event">
-            <img src="Public_html/Event_Highlights/cf_5.jpg">
-                <div class="mask flex-center"  id="smoke-button">
-                    <p>Cracker Free</p>
-                    <a href="Public_html/Cracker_Free.html" target="_blank"><button class="btn btn-success">DETAILS</button></a>
-                </div>
-            </div>
-
-
-        </div>
-
-        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-            <div class="view hm-zoom" id="diya_painting-event">
-            <img src="Public_html/Event_Highlights/Diya_Painting.jpg">
-                <div class="mask flex-center" id="diya_painting-button">
-                    <p>diya painting</p>
-                    <a href="Public_html/Dia_Making.html" target="_blank"><button class="btn btn-default">DETAILS</button></a>
-                </div>
-            </div>
-
-
-        </div>
-
-
-
-
-
-
-
-
-        </div>-->
     </div>
 </div>
 
@@ -595,10 +532,21 @@
             <div class="row" id="reach-us">
                 <h1>locate us</h1>
             </div>
-            <div class="google-maps">
-                <div class="col-lg-12">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.9769512972734!2d77.36990431459772!3d28.630452882418645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce551491b3ce7%3A0x7335d9fcfd4d9db0!2sJaypee+Institute+of+Information+Technology!5e0!3m2!1sen!2sin!4v1487756066323" width="100%" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
-                </div>
+            <div id="nav_wrapper">
+
+                <nav class="google-maps">
+                    <ul class="vertical">
+                        <img src="Public_html/logo_ioe.png" style="width: 25%">
+                        <li><strong>It's Our Earth<br>Jaypee Institute Of Information Technology,<br>
+                            A-10, Sec-62, Noida, U.P., India</strong></li>
+
+                    </ul>
+                </nav>
+            </div>
+            <div id="map_canvas" style="width: 100%; height: 500px">
+                <!--<div class="col-lg-12">-->
+                    <!--<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.9769512972734!2d77.36990431459772!3d28.630452882418645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce551491b3ce7%3A0x7335d9fcfd4d9db0!2sJaypee+Institute+of+Information+Technology!5e0!3m2!1sen!2sin!4v1487756066323" width="100%" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>-->
+                <!--</div>-->
             </div>
         </div>
     </div>
@@ -608,8 +556,8 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12" id="footer">
-                <p>Copyright Reserved 2017. <span class="fa fa-copyright"></span>.
-                    <!--Designed, Developed And Maintained By --><a href="https://ashishkrgoyal.github.io/" target="_blank">Ashish Kumar Goyal (AshishkrGoyal)</a></p>
+                <p>Made With <span class="fa fa-heart" style="color: red;"></span> by
+                    <!--Designed, Developed And Maintained By --><a href="https://ashishkrgoyal.github.io/" target="_blank">Ashish Kumar Goyal</a></p>
             </div>
         </div>
     </div>
@@ -627,6 +575,35 @@
         duration: 1200
     })
 </script>
+
+    <script src="//maps.googleapis.com/maps/api/js?key=AIzaSyCVjmYqyClNsytOnsulqaDAK7K-uoYypgw" type="text/javascript"></script>
+    <script src="JS/jquery.mapit.min.js" type="text/javascript"></script>
+
+
+    <script>
+
+        $('#map_canvas').mapit({
+            latitude:    28.6304529,
+            longitude:   77.3699043,
+            zoom:        15, // zoom level
+            type:        'ROADMAP', // ROADMAP, SATELLITE, HYBRID, TERRAIN
+            scrollwheel: false,
+            marker: { // custom markers 28.6304529,77.3699043
+                latitude:   28.6304529,
+                longitude:  77.3699043,
+                icon:       'marker_blue.png',
+                title:      "It's Our Earth",
+                open:       true,
+                center:     true
+            },
+            address:   '<h5 class="text-center"><b>Jaypee Noida</b></h5>' +
+            '<p class="text-center">A-10, Sec-62, Noida,India</p>',
+            styles:    'GRAYSCALE', // false, GRAYSCALE
+            locations: [],
+            origins:   []
+        });
+
+    </script>
 
 <script data-cfasync="false" type="text/javascript"
         src="https://cdn.rawgit.com/dwyl/html-form-send-email-via-google-script-without-server/master/form-submission-handler.js"></script>
