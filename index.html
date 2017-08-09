@@ -13,9 +13,8 @@
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Nunito|Poiret+One|Source+Code+Pro" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family= Josefin+Sans|Roboto+Slab|Arvo|Josefin+Slab|Open+Sans|Ubuntu|Courgette|Dancing+Script|Satisfy|Raleway" rel="stylesheet">
-    <link href="CSS/MainPage.css" rel="stylesheet">
     <link href="https://cdn.rawgit.com/michalsnik/aos/2.0.4/dist/aos.css" rel="stylesheet" type="text/css">
-    <!--<link href="CSS/animate.css" rel="stylesheet">-->
+    <link href="CSS/MainPage.css" rel="stylesheet">
 
     <!--carousel file linking-->
     <!--<link href="CSS/css/normalize.css" rel="stylesheet" type="text/css">-->
@@ -32,16 +31,12 @@
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
     <script src="JS/jQuery.scrollSpeed.js"></script>
-    <!--<script src="JS/wow.min.js" type="text/javascript"></script>
-    <script>
-        new WOW().init();
-    </script>-->
     <!--<script src="JS/jquery.sticky.js"></script>-->
     <!--<script src="https://cdn.rawgit.com/leafo/sticky-kit/v1.1.2/jquery.sticky-kit.min.js"></script>-->
-    <script src="JS/scrollFade.min.js"></script>
+    <!--<script src="JS/scrollFade.min.js"></script>-->
     <!--javascript file for loader on complete website-->
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>
-
+    <!--<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>-->
+    <script src="https://cdn.rawgit.com/michalsnik/aos/2.0.4/dist/aos.js" type="text/javascript"></script>
 
     <!--casrousel file linking-->
     <!--<script src="JS/js/modernizr.custom.js"></script>-->
@@ -200,6 +195,7 @@
             <li data-target="#Slider" data-slide-to="0" class="active"></li>
             <li data-target="#Slider" data-slide-to="1"></li>
             <li data-target="#Slider" data-slide-to="2"></li>
+            <li data-target="#Slider" data-slide-to="3"></li>
             <!--<li data-target="#Slider" data-slide-to="3"></li>-->
         </ol>
         <div  id="Slider_div" class="carousel-inner" role="listbox">
@@ -261,6 +257,7 @@
 
                 </div>
             </div>
+    </div>
     </div>
 
 <!--<script language="JavaScript" type="text/javascript">
@@ -567,7 +564,7 @@
 
 <div style="display:none;" id="thankyou_message">
     <h2>bvfdbvdf</h2></div>
-<script src="https://cdn.rawgit.com/michalsnik/aos/2.0.4/dist/aos.js" type="text/javascript"></script>
+
 
 
 <script>
@@ -585,10 +582,10 @@
         $('#map_canvas').mapit({
             latitude:    28.6304529,
             longitude:   77.3699043,
-            zoom:        15, // zoom level
-            type:        'ROADMAP', // ROADMAP, SATELLITE, HYBRID, TERRAIN
+            zoom:        15,
+            type:        'ROADMAP',
             scrollwheel: false,
-            marker: { // custom markers 28.6304529,77.3699043
+            marker: {
                 latitude:   28.6304529,
                 longitude:  77.3699043,
                 icon:       'marker_blue.png',
@@ -598,7 +595,7 @@
             },
             address:   '<h5 class="text-center"><b>Jaypee Noida</b></h5>' +
             '<p class="text-center">A-10, Sec-62, Noida,India</p>',
-            styles:    'GRAYSCALE', // false, GRAYSCALE
+            styles:    'GRAYSCALE',
             locations: [],
             origins:   []
         });

@@ -115,6 +115,21 @@ div.copyright
     font-family: 'Arimo', 'Arvo', serif;
     font-size: medium;
 }
+.background-details
+{
+    position: absolute;
+    background-color: rgba(0,0,0,0.4);
+    font-family: 'Raleway', 'Satisfy', 'Dancing Script', cursive;
+    height: 20%;
+    width: 90%;
+    color: white;
+    bottom:10px;
+}
+.background-details h4
+{
+    display: block;
+    font-size: x-large;
+}
 @media(max-width: 768px)
 {
     .navbar
