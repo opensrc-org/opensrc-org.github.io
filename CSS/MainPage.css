@@ -40,8 +40,11 @@ a
     font-family: 'Raleway','Open Sans', 'cursive';
     font-size: medium;
     letter-spacing: 1.2px;
+    text-decoration: none;
 }
-
+a:hover, a:focus, a:active, a:visited, a:link{
+    text-decoration: none;
+}
 .navbar
 {
     width: 100%;
@@ -350,7 +353,7 @@ span.status
     margin-left: 42%;
     margin-right: 42%;
     display: block;
-    margin-top: 18px;
+    margin-top: 35px;
     color: white;
 }
 #div-1-front span:hover
@@ -380,7 +383,7 @@ span.status
     font-size: 25px;
     font-family: 'Nunito', cursive;
     font-weight: bolder;
-    margin-top: 36px;
+    margin-top: 20px;
     letter-spacing: 1.2px;
 }
 #event-highlights
@@ -496,12 +499,13 @@ nav.google-maps ul li strong {
     padding-top: 1%;
     padding-bottom: 1%;
     letter-spacing:1.4px;
-    font-size: medium;
+    font-size: large;
 }
 .footer
 {
     width:100%;
     background-color: black;
+
     /*margin-top: 10px;*/
 
 }
@@ -549,3 +553,4 @@ nav.google-maps ul li strong {
         float: none;
     }
 }
+

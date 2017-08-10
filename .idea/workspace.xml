@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d07aba69-2902-447a-a232-63d2eca56303" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Cracker_Free.html" afterPath="$PROJECT_DIR$/Public_html/Cracker_Free.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/MainPage.css" afterPath="$PROJECT_DIR$/CSS/MainPage.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="593" column="33" lean-forward="false" selection-start-line="593" selection-start-column="33" selection-end-line="593" selection-end-column="33" />
+            <state relative-caret-position="357">
+              <caret line="358" column="28" lean-forward="true" selection-start-line="358" selection-start-column="28" selection-end-line="358" selection-end-column="28" />
               <folding>
                 <element signature="e#4197#4263#0" expanded="false" />
                 <element signature="e#4268#4534#0" expanded="false" />
@@ -42,8 +41,8 @@
       <file leaf-file-name="MainPage.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS/MainPage.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="500" column="0" lean-forward="true" selection-start-line="500" selection-start-column="0" selection-end-line="506" selection-end-column="1" />
+            <state relative-caret-position="384">
+              <caret line="358" column="23" lean-forward="true" selection-start-line="358" selection-start-column="23" selection-end-line="358" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -173,13 +172,13 @@
         <option value="$PROJECT_DIR$/JS/wow.min.js" />
         <option value="$PROJECT_DIR$/CSS/animate.css" />
         <option value="$PROJECT_DIR$/../../MapIt-master/demo/index.html" />
-        <option value="$PROJECT_DIR$/CSS/MainPage.css" />
         <option value="$PROJECT_DIR$/Public_html/team.html" />
         <option value="$PROJECT_DIR$/CSS/team.css" />
         <option value="$PROJECT_DIR$/Public_html/Dia_Making.html" />
         <option value="$PROJECT_DIR$/Public_html/Quit_Weed_And_Succeed.html" />
         <option value="$PROJECT_DIR$/Public_html/Cracker_Free.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/CSS/MainPage.css" />
       </list>
     </option>
   </component>
@@ -201,7 +200,7 @@
     </gulpfiles>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="1378" />
     <option name="height" value="735" />
@@ -366,12 +365,12 @@
       <workItem from="1502169989339" duration="96000" />
       <workItem from="1502181578784" duration="113000" />
       <workItem from="1502224748239" duration="772000" />
-      <workItem from="1502226806853" duration="26017000" />
+      <workItem from="1502226806853" duration="27297000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166173000" />
+    <option name="totallyTimeSpent" value="167453000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -383,7 +382,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -721,14 +720,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/MainPage.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="500" column="0" lean-forward="true" selection-start-line="500" selection-start-column="0" selection-end-line="506" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CSS/team.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="101">
@@ -782,10 +773,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/MainPage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="358" column="23" lean-forward="true" selection-start-line="358" selection-start-column="23" selection-end-line="358" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="593" column="33" lean-forward="false" selection-start-line="593" selection-start-column="33" selection-end-line="593" selection-end-column="33" />
+        <state relative-caret-position="357">
+          <caret line="358" column="28" lean-forward="true" selection-start-line="358" selection-start-column="28" selection-end-line="358" selection-end-column="28" />
           <folding>
             <element signature="e#4197#4263#0" expanded="false" />
             <element signature="e#4268#4534#0" expanded="false" />
