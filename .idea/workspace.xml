@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d07aba69-2902-447a-a232-63d2eca56303" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/MainPage.css" afterPath="$PROJECT_DIR$/CSS/MainPage.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/team.css" afterPath="$PROJECT_DIR$/CSS/team.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/team.html" afterPath="$PROJECT_DIR$/Public_html/team.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainPage.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainPage.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS/MainPage.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="626" column="22" lean-forward="false" selection-start-line="626" selection-start-column="22" selection-end-line="626" selection-end-column="22" />
+            <state relative-caret-position="916">
+              <caret line="616" column="26" lean-forward="true" selection-start-line="616" selection-start-column="26" selection-end-line="616" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -47,23 +49,23 @@
       <file leaf-file-name="team.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Public_html/team.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+            <state relative-caret-position="6214">
+              <caret line="289" column="60" lean-forward="false" selection-start-line="289" selection-start-column="60" selection-end-line="289" selection-end-column="60" />
               <folding>
                 <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1502528381554" expanded="false" signature="9648:10039" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="team.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="team.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CSS/team.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="102" column="26" lean-forward="false" selection-start-line="102" selection-start-column="26" selection-end-line="102" selection-end-column="26" />
+            <state relative-caret-position="378">
+              <caret line="77" column="37" lean-forward="false" selection-start-line="77" selection-start-column="4" selection-end-line="77" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -105,9 +107,12 @@
       <find>Best Out Of Waste</find>
       <find>opa</find>
       <find>video</find>
+      <find>col-sm-3</find>
+      <find>col-sm-3 col-xs-6</find>
     </findStrings>
     <replaceStrings>
       <replace>QWAS</replace>
+      <replace>col-sm-6 col-xs-12</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -134,11 +139,11 @@
         <option value="$PROJECT_DIR$/Public_html/Dia_Making.html" />
         <option value="$PROJECT_DIR$/Public_html/Quit_Weed_And_Succeed.html" />
         <option value="$PROJECT_DIR$/../../labs.fossasia.org/404.html" />
-        <option value="$PROJECT_DIR$/Public_html/team.html" />
         <option value="$PROJECT_DIR$/Public_html/Cracker_Free.html" />
-        <option value="$PROJECT_DIR$/CSS/team.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/CSS/MainPage.css" />
+        <option value="$PROJECT_DIR$/Public_html/team.html" />
+        <option value="$PROJECT_DIR$/CSS/team.css" />
       </list>
     </option>
   </component>
@@ -160,7 +165,7 @@
     </gulpfiles>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="width" value="1378" />
     <option name="height" value="735" />
@@ -326,12 +331,12 @@
       <workItem from="1502181578784" duration="113000" />
       <workItem from="1502224748239" duration="772000" />
       <workItem from="1502226806853" duration="36710000" />
-      <workItem from="1502515756342" duration="8818000" />
+      <workItem from="1502515756342" duration="9724000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="185684000" />
+    <option name="totallyTimeSpent" value="186590000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -343,7 +348,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -682,27 +687,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Public_html/team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding>
-            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/team.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="102" column="26" lean-forward="false" selection-start-line="102" selection-start-column="26" selection-end-line="102" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
@@ -721,8 +705,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/MainPage.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="626" column="22" lean-forward="false" selection-start-line="626" selection-start-column="22" selection-end-line="626" selection-end-column="22" />
+        <state relative-caret-position="916">
+          <caret line="616" column="26" lean-forward="true" selection-start-line="616" selection-start-column="26" selection-end-line="616" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public_html/team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6214">
+          <caret line="289" column="60" lean-forward="false" selection-start-line="289" selection-start-column="60" selection-end-line="289" selection-end-column="60" />
+          <folding>
+            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1502528381554" expanded="false" signature="9648:10039" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/team.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="77" column="37" lean-forward="false" selection-start-line="77" selection-start-column="4" selection-end-line="77" selection-end-column="39" />
           <folding />
         </state>
       </provider>

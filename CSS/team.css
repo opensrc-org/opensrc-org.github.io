@@ -71,9 +71,11 @@ span#toggle-icon
 {
     margin-top: 53px;
     height: 70%;
+
     background: url("../Public_html/Team_Images/Team_back.jpg");
+
     background-size: 100%;
-    background-position: 100% 100%;
+    /*background-position: 100% 100%;*/
     background-attachment: fixed;
     color: #FFFFFF;
 }
