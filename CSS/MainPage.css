@@ -173,6 +173,12 @@ span.status
 {
     background-color: #FCFCFC;
     width:100%;
+    padding-left: 0;
+    padding-right: 0;
+}
+#team-info{
+    padding-left: 0;
+    padding-right: 0;
 }
 #team-info img,#coordinator-info img
 {
@@ -192,7 +198,7 @@ span.status
 {
     text-align: center;
     padding-bottom:40px;
-    font-family: 'Raleway', cursive;
+    font-family: 'Nunito', cursive;
     letter-spacing: 6px;
     font-size: 3em;
     font-weight: bold;
@@ -224,9 +230,9 @@ span.status
 }
 #team-detail p
 {
-    font-family: 'Open Sans', 'cursive';
+    font-family: 'Nunito', 'cursive';
     letter-spacing: 1px;
-    font-size: small;
+    font-size: 14px;
     text-transform: none;
     color: #000;
     width: 100%;
