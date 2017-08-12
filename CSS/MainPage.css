@@ -622,6 +622,10 @@ nav.google-maps ul li strong {
         height: 60vh;
         opacity: 1;
     }
+    .navbar-header
+    {
+        display: none;
+    }
     .detail-video
     {
         display: none;
