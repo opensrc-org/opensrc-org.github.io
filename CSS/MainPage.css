@@ -416,7 +416,7 @@ span.short-disp
 #event-highlights h1,#spread-love h1,#reach-us h1,#what-we-love-to-do h1
 {
     text-align: center;
-    font-family: 'Raleway', cursive;
+    font-family: 'Nunito', cursive;
     font-weight: bolder;
     padding-top: 5%;
     color: cornflowerblue;
@@ -538,7 +538,11 @@ nav.google-maps ul li strong {
     /*margin-top: 10px;*/
 
 }
-
+.video-vimeo
+{
+    width:100%;
+    height:360px;
+}
 .video,.detail-video
 {
     display: block;
@@ -580,6 +584,10 @@ nav.google-maps ul li strong {
         margin: 0;
     }
     span.short-disp
+    {
+        display: none;
+    }
+    #nav_wrapper
     {
         display: none;
     }
