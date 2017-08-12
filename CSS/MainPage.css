@@ -578,5 +578,10 @@ nav.google-maps ul li strong {
     {
         float: none;
     }
+    form
+    {
+       margin: 0 auto;
+
+    }
 }
 
