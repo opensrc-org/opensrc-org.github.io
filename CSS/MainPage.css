@@ -91,6 +91,7 @@ span
 {
     color: whitesmoke;
 }
+
 span.after_shrink
 {
     color: #000;
@@ -265,7 +266,10 @@ span.status
     text-align: center;
     font-size: 22px;
 }
-
+span.short-disp
+{
+    color: #000;
+}
 #what-we-love-to-do
 {
     width:100%;
@@ -557,12 +561,21 @@ nav.google-maps ul li strong {
 }
 @media only screen and (max-width: 765px)
 {
+    #about-us h1
+    {
+       font-size: 38px;
+    }
     #about-status
     {
         text-align: center;
         padding:0;
         text-transform: capitalize;
-        font-size: small;
+        font-size: 20px;
+        margin: 0;
+    }
+    span.short-disp
+    {
+        display: none;
     }
 }
 @media only screen and (max-width: 1200px){
