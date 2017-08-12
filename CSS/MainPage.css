@@ -357,6 +357,18 @@ span.status
     margin-top: 35px;
     color: white;
 }
+#div-1-front span
+{
+    color: forestgreen;
+}
+#div-2-front span
+{
+    color: red;
+}
+#div-4-front span
+{
+    color: cornflowerblue;
+}
 #div-1-front span:hover
 {
     animation-name: A1;
@@ -424,28 +436,35 @@ span.status
 #tree-event:hover,#diya_painting-event:hover,#smoke-event:hover,#article-writing-event:hover,#poster-creating-event:hover,#planting-event:hover
 {
     opacity: 0.7;
-    box-shadow: 0 0 10px black;
+    box-shadow: 0 0 10px 1px cornflowerblue;
     cursor: pointer;
     /*box-shadow: -6px -6px 5px black;*/
 }
-#tree-button p,#diya_painting-button p,#smoke-button p,#poster-button p,#planting-button p,#article-button p
+.event_details
 {
-    font-family: 'Raleway', 'Open Sans', 'cursive';
-    text-transform: uppercase;
-    font-size: xx-large;
-    font-weight: 900;
+    position: absolute;
+    background-color: rgba(0,0,0,0.5);
+    width:100%;
+    height: 25%;
+    display: none;
 }
-#tree-button p,#poster-button p
+
+
+.memories
 {
-    color: #00ad45;
+    /*display: flex;
+    flex-direction: column;*/
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 300px;
+    overflow-x: hidden;
+    overflow-y: hidden;
 }
-#diya_painting-button p,#article-button p
+
+.event_details h1
 {
-    color: #ec407a;
-}
-#smoke-button p,#planting-button p
-{
-    color: red;
+    color: white;
 }
 #spread-love h1
 {
@@ -473,7 +492,6 @@ form
     margin-left: 3%;
 }
 nav.google-maps ul {
-    /*background: rgba(57,110,164, 0.4);*/
     background-color: rgba(0,0,0,0.6);
     color: #fff;
     margin: 4em 5em !important;
@@ -509,12 +527,6 @@ nav.google-maps ul li strong {
 
     /*margin-top: 10px;*/
 
-}
-#tree-button,#diya_painting-button,#smoke-button,#poster-button,#article-button,#planting-button
-{
-    display: none;
-    margin-top: 30%;
-    margin-left: 10%;
 }
 
 .video,.detail-video
