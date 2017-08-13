@@ -94,16 +94,7 @@ span#toggle-icon
 {
     margin: 4% 6% 6% 6%;
 }
- img.lazy {
-     width: 100%;
-     height: auto;
-     background-image: url('../gif.gif');
-     background-repeat: no-repeat;
-     background-position: 50% 50%;
-     vertical-align: 6px;
-     margin-top: 10%;
-     box-shadow: 0 0 5px 2px cornflowerblue;
- }
+
 div.copyright
 {
     background-color: #000;
@@ -128,6 +119,16 @@ div.copyright
     width: 90%;
     color: white;
     bottom:10px;
+}
+img.lazy {
+    width: 100%;
+    height: auto;
+    background-image: url('../gif.gif');
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    vertical-align: 6px;
+    margin-top: 10%;
+    box-shadow: 0 0 5px 2px cornflowerblue;
 }
 .background-details h4
 {
