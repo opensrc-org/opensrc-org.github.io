@@ -471,7 +471,7 @@ span.short-disp
 .join-us h2
 {
     font-family: "Raleway", Helvetica, Arial, sans-serif;
-    font-weight: bold;
+    font-weight: 400;
     font-size: 40px;
 }
 .join-us button
@@ -496,7 +496,7 @@ span.short-disp
     margin-top: 3%;
     background-color: #3b5998;
     color: white;
-    width:8%;
+    width:70px;
     padding-top: 1%;
     border-radius: 3%;
     padding-bottom: 0%;
