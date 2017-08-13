@@ -254,6 +254,8 @@ span.status
     font-size: large;
     word-spacing: 2px;
     padding-bottom: 40px;
+    padding-right: 0;
+    padding-left:0;
     color: #000;
 }
 #about-us h1

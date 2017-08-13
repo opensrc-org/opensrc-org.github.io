@@ -15,7 +15,7 @@ body
 {
     text-transform: capitalize;
     text-align: center;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Nunito', sans-serif;
     font-size: 2em;
     margin-left: 18%;
     margin-right: 18%;
@@ -31,6 +31,7 @@ body
     width: 36px;
     padding: 4px;
     border-radius: 4px;
+    transition: all 0.6s ease-in;
 }
 .Website-Link
 {

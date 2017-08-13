@@ -98,6 +98,7 @@ span#toggle-icon
 {
     margin-top: 2%;
 }
+
 h1,.write-up
 {
     font-family: "Nunito", Helvetica, Arial, sans-serif;
@@ -147,6 +148,11 @@ img.lazy {
     vertical-align: 6px;
     margin-top: 10%;
     box-shadow: 0 0 5px 2px cornflowerblue;
+    transition: all 0.6s ease;
+}
+img.lazy:hover
+{
+    filter: grayscale(0.7);
 }
 .background-details h4
 {
