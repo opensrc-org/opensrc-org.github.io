@@ -94,7 +94,25 @@ span#toggle-icon
 {
     margin: 4% 6% 6% 6%;
 }
-
+.dev-sec
+{
+    margin-top: 2%;
+}
+h1,.write-up
+{
+    font-family: "Nunito", Helvetica, Arial, sans-serif;
+    font-size: large;
+}
+h1
+{
+    font-size: x-large;
+    font-weight: bold;
+}
+h2
+{
+    font-size: large;
+    font-weight: bold;
+}
 div.copyright
 {
     background-color: #000;
