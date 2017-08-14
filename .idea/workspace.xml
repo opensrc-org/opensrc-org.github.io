@@ -2,8 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d07aba69-2902-447a-a232-63d2eca56303" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/MainPage.css" afterPath="$PROJECT_DIR$/CSS/MainPage.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Slider_Images/image_13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Slider_Images/image_22.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Event_Highlights/Tr_P.jpg" afterPath="$PROJECT_DIR$/Public_html/Event_Highlights/Tr_P.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Event_Highlights/orientation1.jpg" afterPath="$PROJECT_DIR$/Public_html/Event_Highlights/orientation1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Slider_Images/IOE_le.jpg" afterPath="$PROJECT_DIR$/Public_html/Slider_Images/IOE_le.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Slider_Images/image_2.jpg" afterPath="$PROJECT_DIR$/Public_html/Slider_Images/image_2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Slider_Images/orientation3.jpg" afterPath="$PROJECT_DIR$/Public_html/Slider_Images/orientation3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Slider_Images/orientation4.jpg" afterPath="$PROJECT_DIR$/Public_html/Slider_Images/orientation4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Slider_Images/orientation5.jpg" afterPath="$PROJECT_DIR$/Public_html/Slider_Images/orientation5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Aditi_Saxena_1.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Aditi_Saxena_1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Aditya_Singh.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Aditya_Singh.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Ajay_Kushwaha.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Ajay_Kushwaha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Akanksha_Maurya_2.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Akanksha_Maurya_2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Aman Parmar.jpeg" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Aman Parmar.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Ankita_Vaishali.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Ankita_Vaishali.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Anmol_.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Anmol_.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Anuj_Saraswat_2.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Anuj_Saraswat_2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Ashray Sharma.jpeg" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Ashray Sharma.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Charu_Chauhan_2.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Charu_Chauhan_2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Deepanshu Gupta.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Deepanshu Gupta.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Devansh_Alok.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Devansh_Alok.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Dhristi_Mittal.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Dhristi_Mittal.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Hardik_17.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Hardik_17.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Ishan Jain.jpeg" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Ishan Jain.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Kanishka_New.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Kanishka_New.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Kanishka_Parmar.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Kanishka_Parmar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Keya_Kriti.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Keya_Kriti.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Nikita Gupta.jpeg" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Nikita Gupta.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Palash_Rai.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Palash_Rai.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Parimal_2.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Parimal_2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Parth Chandna.jpeg" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Parth Chandna.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Priya Bhardwaj.jpg" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Priya Bhardwaj.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Priya_daBhardwaj.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Priya_daBhardwaj.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Priyanshi_Gupta.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Priyanshi_Gupta.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Ritik Gupta.jpeg" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Ritik Gupta.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Rohan Saxena.jpeg" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Rohan Saxena.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Rupali Maurya.jpeg" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Rupali Maurya.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Skandha_Choudhary.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Skandha_Choudhary.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Yashvardhan Verma.jpeg" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Yashvardhan Verma.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/akshay.jpg" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/akshay.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/hardik_sharma.jpg" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/hardik_sharma.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/sandeep.JPG" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/sandeep.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/logo_ioe.png" afterPath="$PROJECT_DIR$/Public_html/logo_ioe.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,10 +62,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="458" column="14" lean-forward="true" selection-start-line="458" selection-start-column="14" selection-end-line="458" selection-end-column="14" />
+            <state relative-caret-position="216">
+              <caret line="29" column="44" lean-forward="false" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
               <folding>
-                <element signature="e#2942#3208#0" expanded="false" />
+                <element signature="e#2915#3181#0" expanded="false" />
                 <element signature="n#style#0;n#h1#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#div#0;n#div#8;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#textarea#0;n#div#0;n#div#3;n#form#0;n#div#0;n#div#1;n#div#8;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -50,13 +91,12 @@
       <file leaf-file-name="team.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Public_html/team.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="113" column="9" lean-forward="true" selection-start-line="113" selection-start-column="9" selection-end-line="113" selection-end-column="9" />
+            <state relative-caret-position="1188">
+              <caret line="100" column="61" lean-forward="true" selection-start-line="100" selection-start-column="61" selection-end-line="100" selection-end-column="61" />
               <folding>
                 <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1502703482409" expanded="false" signature="3033:4350" ph="..." />
               </folding>
             </state>
           </provider>
@@ -106,7 +146,7 @@
         <entry file="file://$PROJECT_DIR$/CSS/Thanks.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="965">
-              <caret line="79" column="0" lean-forward="true" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+              <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -212,7 +252,7 @@
     </gulpfiles>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="width" value="1378" />
     <option name="height" value="735" />
@@ -386,12 +426,12 @@
       <workItem from="1502515756342" duration="11598000" />
       <workItem from="1502607430210" duration="13739000" />
       <workItem from="1502643994158" duration="8850000" />
-      <workItem from="1502661479169" duration="8309000" />
+      <workItem from="1502661479169" duration="10240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="219362000" />
+    <option name="totallyTimeSpent" value="221293000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -403,7 +443,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -725,7 +765,7 @@
     <entry file="file://$PROJECT_DIR$/CSS/Thanks.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="965">
-          <caret line="79" column="0" lean-forward="true" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+          <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -735,19 +775,6 @@
         <state relative-caret-position="371">
           <caret line="167" column="20" lean-forward="false" selection-start-line="167" selection-start-column="20" selection-end-line="167" selection-end-column="20" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Public_html/team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="113" column="9" lean-forward="true" selection-start-line="113" selection-start-column="9" selection-end-line="113" selection-end-column="9" />
-          <folding>
-            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1502703482409" expanded="false" signature="3033:4350" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -775,12 +802,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Public_html/team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="100" column="61" lean-forward="true" selection-start-line="100" selection-start-column="61" selection-end-line="100" selection-end-column="61" />
+          <folding>
+            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="458" column="14" lean-forward="true" selection-start-line="458" selection-start-column="14" selection-end-line="458" selection-end-column="14" />
+        <state relative-caret-position="216">
+          <caret line="29" column="44" lean-forward="false" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
           <folding>
-            <element signature="e#2942#3208#0" expanded="false" />
+            <element signature="e#2915#3181#0" expanded="false" />
             <element signature="n#style#0;n#h1#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#div#0;n#div#8;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#textarea#0;n#div#0;n#div#3;n#form#0;n#div#0;n#div#1;n#div#8;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
