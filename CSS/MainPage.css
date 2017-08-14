@@ -455,7 +455,7 @@ span.short-disp
 {
     background: url("../grey-bg.jpg");
     background-position: center;
-    height:90vh;
+    height:auto;
     width: 100%;
 }
 .join-us h1

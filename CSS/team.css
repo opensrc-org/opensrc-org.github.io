@@ -70,12 +70,12 @@ span#toggle-icon
 .heading
 {
     margin-top: 53px;
-    height: 70%;
-
+    height: 50vh;
     background: url("../Public_html/Team_Images/IOE_le.jpg");
     background-position: center;
     background-size: 100%;
     /*background-position: 100% 100%;*/
+    background-repeat: no-repeat;
     background-attachment: fixed;
     color: #FFFFFF;
 }
@@ -190,5 +190,6 @@ a:hover
     {
         top:0;
         margin-top: 0;
+        display: none;
     }
 }
