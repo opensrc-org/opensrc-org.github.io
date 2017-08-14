@@ -608,6 +608,29 @@ nav.google-maps ul li strong {
     font-size: 5.6em;
     color: coral;
 }
+.modal-header h4
+{
+    font-family: "Raleway", Helvetica, Arial, sans-serif;
+    font-weight: bolder;
+}
+.modal-content
+{
+    background-color: rgba(0,0,0,0.7);
+    color: white;
+    height: 100vh;
+}
+.modal-body p
+{
+    font-weight: 400;
+    font-family: "Nunito", Helvetica, Arial, sans-serif;
+    font-size: x-large;
+    text-align: center;
+}
+.modal-body p button
+{
+    background-color: whitesmoke;
+    color: #000;
+}
 @media only screen and (max-width: 768px) {
     #main-heading
     {
