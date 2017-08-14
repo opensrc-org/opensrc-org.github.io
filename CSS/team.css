@@ -72,8 +72,8 @@ span#toggle-icon
     margin-top: 53px;
     height: 70%;
 
-    background: url("../Public_html/Team_Images/Team_back.jpg");
-
+    background: url("../Public_html/Team_Images/IOE_le.jpg");
+    background-position: center;
     background-size: 100%;
     /*background-position: 100% 100%;*/
     background-attachment: fixed;
@@ -89,6 +89,7 @@ span#toggle-icon
     font-family: 'Raleway', serif;
     font-size: 4em;
     letter-spacing: 1.5px;
+    color: white;
 }
 #team_profile
 {
@@ -159,6 +160,12 @@ img.lazy:hover
     display: block;
     font-size: x-large;
     font-weight: 500;
+    color: white;
+}
+a,a:hover
+{
+    color: white;
+    font-size: large;
 }
 .footer
 {
@@ -168,6 +175,7 @@ img.lazy:hover
     /*margin-top: 10px;*/
 
 }
+
 a:hover
 {
     text-decoration: none;
