@@ -2,50 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d07aba69-2902-447a-a232-63d2eca56303" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Slider_Images/image_13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Slider_Images/image_22.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Event_Highlights/Tr_P.jpg" afterPath="$PROJECT_DIR$/Public_html/Event_Highlights/Tr_P.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Event_Highlights/orientation1.jpg" afterPath="$PROJECT_DIR$/Public_html/Event_Highlights/orientation1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Slider_Images/IOE_le.jpg" afterPath="$PROJECT_DIR$/Public_html/Slider_Images/IOE_le.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Slider_Images/image_2.jpg" afterPath="$PROJECT_DIR$/Public_html/Slider_Images/image_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Slider_Images/orientation3.jpg" afterPath="$PROJECT_DIR$/Public_html/Slider_Images/orientation3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Slider_Images/orientation4.jpg" afterPath="$PROJECT_DIR$/Public_html/Slider_Images/orientation4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Slider_Images/orientation5.jpg" afterPath="$PROJECT_DIR$/Public_html/Slider_Images/orientation5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Aditi_Saxena_1.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Aditi_Saxena_1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Aditya_Singh.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Aditya_Singh.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Ajay_Kushwaha.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Ajay_Kushwaha.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Akanksha_Maurya_2.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Akanksha_Maurya_2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Aman Parmar.jpeg" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Aman Parmar.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Ankita_Vaishali.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Ankita_Vaishali.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Anmol_.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Anmol_.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Anuj_Saraswat_2.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Anuj_Saraswat_2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Ashray Sharma.jpeg" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Ashray Sharma.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Charu_Chauhan_2.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Charu_Chauhan_2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Deepanshu Gupta.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Deepanshu Gupta.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Devansh_Alok.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Devansh_Alok.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Dhristi_Mittal.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Dhristi_Mittal.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Hardik_17.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Hardik_17.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Ishan Jain.jpeg" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Ishan Jain.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Kanishka_New.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Kanishka_New.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Kanishka_Parmar.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Kanishka_Parmar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Keya_Kriti.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Keya_Kriti.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Nikita Gupta.jpeg" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Nikita Gupta.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Palash_Rai.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Palash_Rai.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Parimal_2.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Parimal_2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Parth Chandna.jpeg" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Parth Chandna.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Priya Bhardwaj.jpg" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Priya Bhardwaj.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Priya_daBhardwaj.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Priya_daBhardwaj.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Priyanshi_Gupta.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Priyanshi_Gupta.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Ritik Gupta.jpeg" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Ritik Gupta.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Rohan Saxena.jpeg" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Rohan Saxena.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Rupali Maurya.jpeg" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Rupali Maurya.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Skandha_Choudhary.png" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Skandha_Choudhary.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Yashvardhan Verma.jpeg" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/Yashvardhan Verma.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/akshay.jpg" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/akshay.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/hardik_sharma.jpg" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/hardik_sharma.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/sandeep.JPG" afterPath="$PROJECT_DIR$/Public_html/Team_Profile/sandeep.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/logo_ioe.png" afterPath="$PROJECT_DIR$/Public_html/logo_ioe.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CSS/fontawesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/Thanks.css" afterPath="$PROJECT_DIR$/CSS/Thanks.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public_html/Thanks.html" afterPath="$PROJECT_DIR$/Public_html/Thanks.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -59,10 +19,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="135">
               <caret line="29" column="44" lean-forward="false" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
               <folding>
                 <element signature="e#2915#3181#0" expanded="false" />
@@ -105,18 +65,38 @@
       <file leaf-file-name="team.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS/team.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="167" column="20" lean-forward="false" selection-start-line="167" selection-start-column="20" selection-end-line="167" selection-end-column="20" />
+            <state relative-caret-position="135">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Thanks.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Thanks.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Public_html/Thanks.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-432">
-              <caret line="13" column="49" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="52" />
+            <state relative-caret-position="270">
+              <caret line="10" column="106" lean-forward="true" selection-start-line="10" selection-start-column="106" selection-end-line="10" selection-end-column="106" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSS/bootstrap.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fontawesome.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSS/fontawesome.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="30837" lean-forward="false" selection-start-line="3" selection-start-column="30837" selection-end-line="3" selection-end-column="30837" />
               <folding />
             </state>
           </provider>
@@ -132,21 +112,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CNAME" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CNAME">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Thanks.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS/Thanks.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="965">
-              <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+            <state relative-caret-position="506">
+              <caret line="35" column="1" lean-forward="false" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -225,12 +195,14 @@
         <option value="$PROJECT_DIR$/../../labs.fossasia.org/404.html" />
         <option value="$PROJECT_DIR$/Public_html/Cracker_Free.html" />
         <option value="$PROJECT_DIR$/CNAME" />
-        <option value="$PROJECT_DIR$/CSS/Thanks.css" />
-        <option value="$PROJECT_DIR$/CSS/team.css" />
         <option value="$PROJECT_DIR$/Public_html/team.html" />
-        <option value="$PROJECT_DIR$/Public_html/Thanks.html" />
         <option value="$PROJECT_DIR$/CSS/MainPage.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/CSS/fontawesome.css" />
+        <option value="$PROJECT_DIR$/CSS/bootstrap.css" />
+        <option value="$PROJECT_DIR$/CSS/team.css" />
+        <option value="$PROJECT_DIR$/CSS/Thanks.css" />
+        <option value="$PROJECT_DIR$/Public_html/Thanks.html" />
       </list>
     </option>
   </component>
@@ -252,7 +224,7 @@
     </gulpfiles>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="1378" />
     <option name="height" value="735" />
@@ -426,12 +398,12 @@
       <workItem from="1502515756342" duration="11598000" />
       <workItem from="1502607430210" duration="13739000" />
       <workItem from="1502643994158" duration="8850000" />
-      <workItem from="1502661479169" duration="10240000" />
+      <workItem from="1502661479169" duration="11510000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="221293000" />
+    <option name="totallyTimeSpent" value="222563000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -443,7 +415,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -503,9 +475,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../FourBoxes/FourBoxes/css/demo.css" />
-    <entry file="file://$PROJECT_DIR$/../FourBoxes/FourBoxes/css/component.css" />
-    <entry file="file://$PROJECT_DIR$/../FourBoxes/FourBoxes/index2.html" />
     <entry file="file://$PROJECT_DIR$/../frontend/FourBoxes/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
@@ -762,34 +731,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/Thanks.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="965">
-          <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/team.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="167" column="20" lean-forward="false" selection-start-line="167" selection-start-column="20" selection-end-line="167" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JS/Bouncing.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="13" column="45" lean-forward="false" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Public_html/Thanks.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-432">
-          <caret line="13" column="49" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="52" />
           <folding />
         </state>
       </provider>
@@ -816,7 +761,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="135">
           <caret line="29" column="44" lean-forward="false" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
           <folding>
             <element signature="e#2915#3181#0" expanded="false" />
@@ -828,6 +773,54 @@
             <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#10;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#11;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/fontawesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="30837" lean-forward="false" selection-start-line="3" selection-start-column="30837" selection-end-line="3" selection-end-column="30837" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/team.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/Thanks.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="35" column="1" lean-forward="false" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public_html/Thanks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="106" lean-forward="true" selection-start-line="10" selection-start-column="106" selection-end-line="10" selection-end-column="106" />
+          <folding />
         </state>
       </provider>
     </entry>
