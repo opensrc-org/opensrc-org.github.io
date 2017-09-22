@@ -244,7 +244,7 @@ span.status
 {
     filter: grayscale(100%);
 }
-#about-us
+#about
 {
     font-size: large;
     word-spacing: 2px;
@@ -253,7 +253,7 @@ span.status
     padding-left:0;
     color: #000;
 }
-#about-us h1
+#about h1
 {
     padding-bottom: 10px;
     font-family: 'Nunito', cursive;
