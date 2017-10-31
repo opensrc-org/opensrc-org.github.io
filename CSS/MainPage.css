@@ -11,7 +11,7 @@
     width: 100%;
     height: 100%;
     z-index: 9999;
-    background: url(../Preloader_3.gif) center no-repeat #fff;
+    background: url(../images/loader.gif) center no-repeat #fff;
 }
 #social-icon-universal span
 {
@@ -453,7 +453,7 @@ span.short-disp
 }
 .join-us
 {
-    background: url("../grey-bg.jpg");
+    background: url("../images/backgrnd.jpg");
     background-position: center;
     height:auto;
     width: 100%;
