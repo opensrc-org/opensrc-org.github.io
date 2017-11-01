@@ -67,7 +67,7 @@
     </div>
 </nav>
 
-<div class="heading">
+<div id="heading">
     <div>
     <h1>Meet Our Team<br></h1>
     </div>
@@ -502,5 +502,18 @@
     });
 </script>
 
+<script>
+    $(document).on("scroll", function()
+    {
+        if($(document).scrollTop() > 100)
+        {
+            $(".navbar").addClass("shrink");
+        }
+        else
+        {
+            $(".navbar").removeClass("shrink");
+        }
+    });
+</script>
 </body>
 </html>
