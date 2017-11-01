@@ -76,6 +76,7 @@ a:hover, a:focus, a:active, a:visited, a:link{
     opacity: 1.0;
     font-weight: 900;
     z-index: 999;
+    background-color: transparent;
 }
 #navigation li a:active
 {
@@ -712,4 +713,11 @@ nav.google-maps ul li strong {
         text-align: center;
     }
 }
-
+#heading_logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: 200px;
+    padding-bottom: 10px;
+}
