@@ -1,9 +1,8 @@
-body,html
-{
+body,html {
     height: 100%;
     background-color: whitesmoke;
+    margin: 0px;
 }
-
 a
 {
     font-family: 'Raleway','Open Sans', 'cursive';
@@ -19,8 +18,13 @@ a
     border-radius: 0%;
     z-index: 99;
     position: fixed;
-    background-color: white;
-    box-shadow: 0 0 10px 0 black;
+    background-color: transparent;
+/*    box-shadow: 0 0 10px 0 black;*/
+}
+.shrink {
+    display: block;
+    background-color: lightgray;
+    transition: all 1s ease-in-out;
 }
 .nav-info
 {
@@ -28,7 +32,7 @@ a
 }
 #navigation li a
 {
-    color: black;
+    color: white;
     opacity: 1;
     transition: all 0.6s ease-in;
     font-size: smaller;
@@ -42,6 +46,7 @@ a
     opacity: 1.0;
     font-weight: 900;
     z-index: 999;
+    background-color: transparent;
 }
 #navigation li a:active
 {
@@ -67,19 +72,21 @@ span#toggle-icon
 {
     color: black;
 }
-.heading
+#heading
 {
-    margin-top: 53px;
-    height: 50vh;
-    background: url("../Public_html/Team_Images/IOE_le.jpg");
+    margin-top: 0px;
+    padding: 0;
+    height: 55vh;
+    background-image: url("../Public_html/Team_Images/IOE_le.jpg");
     background-position: center;
     background-size: 100%;
+
     /*background-position: 100% 100%;*/
     background-repeat: no-repeat;
     background-attachment: fixed;
     color: #FFFFFF;
 }
-.heading div h1
+#heading div h1
 {
 
     text-align: center;
