@@ -2,7 +2,143 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5f2b700-34a6-4833-88a6-1ea6b4ca7111" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/BOW/bow_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/BOW/bow_10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/BOW/bow_11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/BOW/bow_12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/BOW/bow_13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/BOW/bow_14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/BOW/bow_15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/BOW/bow_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/BOW/bow_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/BOW/bow_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/BOW/bow_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/BOW/bow_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/BOW/bow_7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/BOW/bow_8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/BOW/bow_9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Best_Out_Of_Waste.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/CF/cf_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/CF/cf_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/CF/cf_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/CF/cf_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/CF/cf_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/CF/cf_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/CF/cf_8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Contact_Us.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Cracker_Free.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_25.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_28.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_29.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/DIA_MAKING/dm_9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Dia_Making.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Event_Highlights/Diya_Painting.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Event_Highlights/Impressions.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Event_Highlights/Tr_P.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Event_Highlights/Tr_P1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Event_Highlights/bow.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Event_Highlights/cd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Event_Highlights/cf.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Event_Highlights/orientation1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Event_Highlights/qwas.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Gallery/image_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Gallery/image_10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Gallery/image_11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Gallery/image_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Gallery/image_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Gallery/image_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Gallery/image_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Gallery/image_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Gallery/image_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Gallery/image_8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Gallery/image_9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Quit_Weed_And_Succeed.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Slider_Images/IOE_le.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Slider_Images/image_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Slider_Images/image_23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Slider_Images/independence_img.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Slider_Images/orientation3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Slider_Images/orientation4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Slider_Images/orientation5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Sub_Gallery/image_12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Sub_Gallery/image_13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Sub_Gallery/image_14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Sub_Gallery/image_15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Sub_Gallery/image_16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Sub_Gallery/image_17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Sub_Gallery/image_18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Sub_Gallery/image_19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Sub_Gallery/image_20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Sub_Gallery/image_21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Sub_Gallery/image_22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Sub_Gallery/image_23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Sub_Gallery/image_24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Images/Abhishek_Vijay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Images/IOE_le.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Images/Shaurya_Singh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Images/Team_back.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Aditi_Saxena_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Aditya_Singh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Ajay_Kushwaha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Akanksha_Maurya_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Aman Parmar.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Ankita_Vaishali.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Anmol_.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Anuj_Saraswat_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Ashray Sharma.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Charu_Chauhan_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Deepanshu Gupta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Devansh_Alok.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Dhristi_Mittal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Hardik_17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Ishan Jain.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Kanishka_New.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Kanishka_Parmar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Keya_Kriti.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Nikita Gupta.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Palash_Rai.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Parimal_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Parth Chandna.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Priya Bhardwaj.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Priya_daBhardwaj.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Priyanshi_Gupta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Ritik Gupta.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Rohan Saxena.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Rupali Maurya.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Skandha_Choudhary.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Yash_Goel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/Yashvardhan Verma.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/akshay.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/hardik_sharma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Team_Profile/sandeep.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/Thanks.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/logo_ioe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Public_html/team.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,82 +155,84 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+            <state relative-caret-position="-6534">
+              <caret line="296" column="38" lean-forward="false" selection-start-line="296" selection-start-column="38" selection-end-line="296" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Best-Out-Of-Waste.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Best-Out-Of-Waste.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="84" column="17" lean-forward="true" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cracker-Free.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cracker-Free.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2025">
+              <caret line="76" column="21" lean-forward="true" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="21" />
               <folding>
-                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1509685164456" expanded="false" signature="4915:4926" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Best_Out_Of_Waste.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Public_html/Best_Out_Of_Waste.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-918">
-              <caret line="49" column="20" lean-forward="false" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Cracker_Free.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Public_html/Cracker_Free.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2550">
-              <caret line="52" column="37" lean-forward="false" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dia_Making.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Public_html/Dia_Making.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2550">
-              <caret line="55" column="22" lean-forward="false" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Public_html/jquery.js">
+      <file leaf-file-name="Dia-Making.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dia-Making.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1509685164924" expanded="false" signature="6060:6071" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="logo_ioe.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Public_html/logo_ioe.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="Quit-Weed-And-Succeed.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Quit-Weed-And-Succeed.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1509685164752" expanded="false" signature="6932:6943" ph="..." />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Quit_Weed_And_Succeed.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Public_html/Quit_Weed_And_Succeed.html">
+      <file leaf-file-name="Team.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Team.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2742">
-              <caret line="54" column="22" lean-forward="false" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
-              <folding />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Thanks.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Public_html/Thanks.html">
+        <entry file="file://$PROJECT_DIR$/Thanks.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
-              <folding />
+            <state relative-caret-position="384">
+              <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+              <folding>
+                <marker date="1509685164846" expanded="false" signature="911:922" ph="..." />
+                <marker date="1509685164846" expanded="false" signature="988:999" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -109,16 +247,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Contact_Us.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Public_html/Contact_Us.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -126,7 +254,19 @@
       <find>about</find>
       <find>welcome</find>
       <find>status</find>
+      <find>./images/Best-out-of-waste_images</find>
+      <find>BOW/</find>
+      <find>CF/</find>
+      <find>DIA_MAKING/</find>
+      <find>Sub_./</find>
+      <find>../</find>
     </findStrings>
+    <replaceStrings>
+      <replace>./images/Best-out-of-waste_images/</replace>
+      <replace>./images/Cracker-free_images/</replace>
+      <replace>./images/Dia-making_images/</replace>
+      <replace>./</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -137,7 +277,6 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/CSS/MainPage.css" />
         <option value="$PROJECT_DIR$/css/MainPage.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Public_html/team.html" />
         <option value="$PROJECT_DIR$/css/team.css" />
         <option value="$PROJECT_DIR$/Public_html/Best_Out_Of_Waste.html" />
@@ -146,6 +285,13 @@
         <option value="$PROJECT_DIR$/Public_html/Dia_Making.html" />
         <option value="$PROJECT_DIR$/Public_html/Quit_Weed_And_Succeed.html" />
         <option value="$PROJECT_DIR$/Public_html/Thanks.html" />
+        <option value="$PROJECT_DIR$/Best-Out-Of-Waste.html" />
+        <option value="$PROJECT_DIR$/Cracker-Free.html" />
+        <option value="$PROJECT_DIR$/Dia-Making.html" />
+        <option value="$PROJECT_DIR$/Quit-Weed-And-Succeed.html" />
+        <option value="$PROJECT_DIR$/Team.html" />
+        <option value="$PROJECT_DIR$/Thanks.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -188,6 +334,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,24 +345,13 @@
             <path>
               <item name="new_ioe" type="b2602c69:ProjectViewProjectNode" />
               <item name="new_ioe" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="new_ioe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="new_ioe" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="new_ioe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="new_ioe" type="462c0819:PsiDirectoryNode" />
-              <item name="Public_html" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -250,12 +386,13 @@
       <option name="presentableId" value="Default" />
       <updated>1506088220992</updated>
       <workItem from="1506088222697" duration="2843000" />
-      <workItem from="1509463572721" duration="2040000" />
+      <workItem from="1509463572721" duration="2813000" />
+      <workItem from="1509651334637" duration="2842000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4883000" />
+    <option name="totallyTimeSpent" value="8498000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -265,18 +402,18 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -295,101 +432,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/MainPage.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6120">
-          <caret line="255" column="6" lean-forward="false" selection-start-line="255" selection-start-column="6" selection-end-line="255" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Preloader_3.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/marker_blue.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grey-bg.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gif.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Public_html/team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11664">
-          <caret line="486" column="0" lean-forward="true" selection-start-line="486" selection-start-column="0" selection-end-line="486" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/team.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3480">
-          <caret line="145" column="45" lean-forward="false" selection-start-line="145" selection-start-column="45" selection-end-line="145" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/MainPage.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5896">
-          <caret line="452" column="1" lean-forward="true" selection-start-line="452" selection-start-column="1" selection-end-line="452" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Public_html/Contact_Us.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Public_html/Best_Out_Of_Waste.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-918">
+        <state relative-caret-position="1176">
           <caret line="49" column="20" lean-forward="false" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
           <folding />
         </state>
@@ -397,7 +446,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Public_html/Cracker_Free.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2550">
+        <state relative-caret-position="1248">
           <caret line="52" column="37" lean-forward="false" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
           <folding />
         </state>
@@ -405,7 +454,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Public_html/Dia_Making.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2550">
+        <state relative-caret-position="1320">
           <caret line="55" column="22" lean-forward="false" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
           <folding />
         </state>
@@ -415,9 +464,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -428,7 +475,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Public_html/Quit_Weed_And_Succeed.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2742">
+        <state relative-caret-position="1296">
           <caret line="54" column="22" lean-forward="false" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
           <folding />
         </state>
@@ -436,8 +483,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Public_html/Thanks.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        <state relative-caret-position="576">
+          <caret line="24" column="6" lean-forward="false" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
           <folding />
         </state>
       </provider>
@@ -450,15 +497,206 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Public_html/Contact_Us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="40" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css_/MainPage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6120">
+          <caret line="255" column="6" lean-forward="false" selection-start-line="255" selection-start-column="6" selection-end-line="255" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js" />
+    <entry file="file://$PROJECT_DIR$/Preloader_3.gif" />
+    <entry file="file://$PROJECT_DIR$/marker_blue.png" />
+    <entry file="file://$PROJECT_DIR$/grey-bg.jpg" />
+    <entry file="file://$PROJECT_DIR$/gif.gif" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public_html/team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11664">
+          <caret line="486" column="0" lean-forward="true" selection-start-line="486" selection-start-column="0" selection-end-line="486" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css_/team.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3480">
+          <caret line="145" column="45" lean-forward="false" selection-start-line="145" selection-start-column="45" selection-end-line="145" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css_/MainPage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5896">
+          <caret line="452" column="1" lean-forward="true" selection-start-line="452" selection-start-column="1" selection-end-line="452" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public_html/Contact_Us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="40" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public_html/Best_Out_Of_Waste.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1176">
+          <caret line="49" column="20" lean-forward="false" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public_html/Cracker_Free.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1248">
+          <caret line="52" column="37" lean-forward="false" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public_html/Dia_Making.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="55" column="22" lean-forward="false" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public_html/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public_html/logo_ioe.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public_html/Quit_Weed_And_Succeed.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="54" column="22" lean-forward="false" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public_html/Thanks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="24" column="6" lean-forward="false" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Best-Out-Of-Waste.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="84" column="17" lean-forward="true" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cracker-Free.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2025">
+          <caret line="76" column="21" lean-forward="true" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="21" />
           <folding>
-            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1509685164456" expanded="false" signature="4915:4926" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dia-Making.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1509685164924" expanded="false" signature="6060:6071" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Quit-Weed-And-Succeed.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1509685164752" expanded="false" signature="6932:6943" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thanks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding>
+            <marker date="1509685164846" expanded="false" signature="911:922" ph="..." />
+            <marker date="1509685164846" expanded="false" signature="988:999" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6534">
+          <caret line="296" column="38" lean-forward="false" selection-start-line="296" selection-start-column="38" selection-end-line="296" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
