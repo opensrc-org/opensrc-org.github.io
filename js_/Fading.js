@@ -22,4 +22,4 @@ $(function () {
             $("#div-4-back,.fa-send-o").slideToggle("fast");
         }
     )
-})
+});
