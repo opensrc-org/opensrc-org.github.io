@@ -288,6 +288,23 @@ span.short-disp
 {
     position: relative;
     cursor: pointer;
+    transition: all 0.5s ease-in;
+}
+#div-1-front:hover
+{
+    background-color: darkslategray;
+}
+#div-2-front:hover
+{
+    background-color: lightgreen;
+}
+#div-3-front:hover
+{
+    background-color: darkslategray;
+}
+#div-4-front:hover
+{
+    background-color: indianred;
 }
 #div-1-front
 {
@@ -295,6 +312,7 @@ span.short-disp
     background-color: #fc7f0c;
     height:250px;
     position: relative;
+    transition: all 0.5s ease-in;
 }
 #div-1-back
 {
@@ -317,18 +335,21 @@ span.short-disp
     background-color: #ffc000;
     height: 250px;
     position: relative;
+    transition: all 0.5s ease-in;
 }
 #div-3-front
 {
     background-color: #337ab7;
     height:250px;
     position: relative;
+    transition: all 0.5s ease-in;
 }
 #div-4-front
 {
     background-color: #474747;
     height: 250px;
     position: relative;
+    transition: all 0.5s ease-in;
 }
 #div-1-front:hover
 {
