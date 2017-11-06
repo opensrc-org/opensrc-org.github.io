@@ -452,10 +452,7 @@ span.short-disp
 {
     width:100%;
     height: auto;
-    /*border-radius: 8px;
-    border-style: solid;
-    border-color: white;
-    border-width: 25px;*/
+
 }
 .event-name
 {
@@ -475,23 +472,27 @@ span.short-disp
 }
 .join-us
 {
-    background: url("../images/backgrnd.jpg");
+    background: url("../images/back-gnd2.jpg");
     background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
     height:auto;
     width: 100%;
+    color: #ffffff;
+    margin-top: 5%;
 }
 .join-us h1
 {
-    margin-top: 4%;
+    margin-top: 7%;
     font-family: "Nunito", Helvetica, Arial, sans-serif;
     font-weight: bolder;
-    font-size: 50px;
+    font-size: 55px;
 }
 .join-us h2
 {
     font-family: "Raleway", Helvetica, Arial, sans-serif;
-    font-weight: 400;
-    font-size: 40px;
+    font-weight: bolder;
+    font-size: 43px;
 }
 .join-us button
 {
@@ -505,27 +506,15 @@ span.short-disp
 }
 .join-us h4
 {
+    font-family: 'Nunito', 'Open Sans', 'sans-serif';
     margin-top: 5%;
+    margin-bottom: 7%;
+    font-weight: bolder;
+    text-transform: capitalize;
+    font-size: 35px;
+    letter-spacing: 2px;
 }
-.join-us i
-{
-    display: block;
-    margin:0 auto;
-    text-align: center;
-    margin-top: 3%;
-    background-color: #3b5998;
-    color: white;
-    width:70px;
-    padding-top: 1%;
-    border-radius: 3%;
-    padding-bottom: 0%;
-    transition: all 0.6s ease;
-}
-.join-us i:hover
-{
-    background-color: transparent;
-    color: #3b5998;
-}
+
 #tree-event:hover,#diya_painting-event:hover,#smoke-event:hover,#article-writing-event:hover,#poster-creating-event:hover,#planting-event:hover
 {
     opacity: 0.7;
