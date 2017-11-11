@@ -93,7 +93,7 @@ span.after_shrink
     color: #000;
     font-weight: bolder;
     font-size: medium;
-    font-family: 'Open Sans', 'Ubuntu', 'Arvo', serif;
+    font-family: 'Open Sans', 'raleway', 'Arvo', serif;
     word-spacing: 4px;
     letter-spacing:2px;
     margin-right: 1%;
@@ -115,7 +115,7 @@ span#toggle-icon
 }
 div h1.status
 {
-    font-family: 'Raleway','Satisfy','Dancing Script', cursive;
+    font-family: 'Raleway','Open Sans', cursive;
     font-size: 48px;
     margin-bottom: 150px;
     background-color: rgba(0,0,0,0.4);
@@ -210,7 +210,7 @@ span.status
 }
 #team-detail h1,#coordinator-info h1
 {
-    font-family: 'Nunito', 'Ubuntu', 'Arvo', 'Open Sans', serif;
+    font-family: 'Nunito', 'raleway', 'Arvo', 'Open Sans', serif;
     font-size: 2em;
     font-weight: bolder;
     letter-spacing: 2.5px;
@@ -219,7 +219,7 @@ span.status
 }
 #team-detail span
 {
-    font-family: 'Ubuntu', 'Arvo', 'Open Sans', serif;
+    font-family: 'raleway', 'Arvo', 'Open Sans', serif;
     font-size: 1.2em;
     color: black;
     text-transform: uppercase;
@@ -472,9 +472,9 @@ span.short-disp
 }
 .join-us
 {
-    background: url("../images/back-gnd2.jpg");
+    background: url(".././images/back-gnd2.jpg");
     background-position: center;
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
     height:auto;
     width: 100%;
@@ -550,7 +550,7 @@ span.short-disp
 }
 input[placeholder],textarea[placeholder]
 {
-    font-family: 'Raleway', 'Ubuntu', 'Arvo', 'Open Sans', serif;
+    font-family: 'Raleway', 'raleway', 'Arvo', 'Open Sans', serif;
     letter-spacing: inherit;
 }
 form

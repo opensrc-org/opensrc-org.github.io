@@ -1,0 +1,37 @@
+{
+  "name": "ioejiit.in",
+  "version": "1.0.0",
+  "description": "website for its our earth NGO under JIIT",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opensrc-org/opensrc-org.github.io.git"
+  },
+  "author": "@AshishkrGoyal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opensrc-org/opensrc-org.github.io/issues"
+  },
+  "homepage": "https://github.com/opensrc-org/opensrc-org.github.io#readme",
+  "dependencies": {
+    "static-server": "^2.0.6"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-filesize": "0.0.6",
+    "gulp-imagemin": "^3.4.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-pngquant": "^1.0.12",
+    "gulp-size": "^2.1.0",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-uglify": "^3.0.0",
+    "pump": "^1.0.2"
+  }
+}
