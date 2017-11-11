@@ -12,6 +12,7 @@ const pump = require('pump');
 const imageMin = require('gulp-imagemin');
 const sourceMaps = require('gulp-sourcemaps');
 const concat = require('gulp-concat');
+const gutil = require('gulp-util');
 
 const STYLES_PATH = ['./css_/bootstrap.min.css','./css_/mdb.min.css','./css_/MainPage.css','./css_/aos.css'];
 const SCRIPTS_PATH = './js_/**/*.js';
@@ -21,13 +22,16 @@ gulp.task('styles',function () {
     console.log('styles task has been running!!');
     return gulp.src(STYLES_PATH)
         .pipe(size())
-        .pipe(sourceMaps.init())
+        /*.pipe(sourceMaps.init())*/
         .pipe(autoFixer())
         .pipe(plumber())
         .pipe(concat('all.css'))
         .pipe(cleanCss())
-        .pipe(sourceMaps.write())
+        /*.pipe(sourceMaps.write())*/
+        .pipe(gutil.env.type === 'production' ? uglify() : gutil.noop())
+        /*.pipe(sourceMaps.write())*/
         .pipe(gulp.dest('./dist/css'))
+        /*.pipe(gulp.dest('./dist/css'))*/
         .pipe(size())
         .pipe(liveReload())
 });
